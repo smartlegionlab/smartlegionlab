@@ -11,14 +11,8 @@
 <img alt="Keyboard image" src="https://github.com/smartlegionlab/smartlegionlab/raw/master/images/i.gif">
 
 <hr>
-<h2>Development of:</h2>
 
-<ul>
-    <li>packages</li>
-    <li>console</li>
-    <li>graphical</li>
-    <li>web</li>
-</ul>
+> Development of packages, console, graphical and web applications on Python.
 
 <hr>
 
