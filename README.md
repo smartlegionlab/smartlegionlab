@@ -2,7 +2,7 @@
 
 <hr>
 
-<img alt="Keyboard image" src="https://github.com/smartlegionlab/smartlegionlab/raw/master/data/images/i.gif">
+<img alt="Keyboard image" src="https://github.com/smartlegionlab/smartlegionlab/raw/master/images/i.gif">
 
 <hr>
 <h2>Development of:</h2>
