@@ -18,4 +18,13 @@
 
 🤔 😄 📫 - Looking for a job ...
 
-<p>If you have a fun project with adequate payment, <a href="mailto:smartlegiondev@gmail.com">write me</a>!</p>
+- <p>If you have a fun project with adequate payment, <a href="mailto:smartlegiondev@gmail.com">write me</a>!</p>
+
+***
+
+## Help the projects financially:
+
+- Yandex Money: [https://yoomoney.ru/to/4100115206129186](https://yoomoney.ru/to/4100115206129186)
+- PayPal: [https://paypal.me/smartlegionlab](https://paypal.me/smartlegionlab)
+- LiberaPay: [https://liberapay.com/smartlegion/donate](https://liberapay.com/smartlegion/donate)
+- Visa: 4048 0250 0089 5923
