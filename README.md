@@ -24,7 +24,7 @@
 
 ## Help the projects financially:
 
-- Yandex Money: [https://yoomoney.ru/to/4100115206129186](https://yoomoney.ru/to/4100115206129186)
 - PayPal: [https://paypal.me/smartlegionlab](https://paypal.me/smartlegionlab)
+- Yandex Money: [https://yoomoney.ru/to/4100115206129186](https://yoomoney.ru/to/4100115206129186)
 - LiberaPay: [https://liberapay.com/smartlegion/donate](https://liberapay.com/smartlegion/donate)
 - Visa: 4048 0250 0089 5923
