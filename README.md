@@ -12,12 +12,6 @@
 
 <hr>
 
-> Development of packages, console, graphical and web applications on Python.
+> Development of packages, console, graphical and web applications on Python/Django.
 
 <hr>
-
-🤔 😄 📫 - Looking for a job ...
-
-- <p>If you have a fun project with adequate payment, <a href="mailto:smartlegiondev@gmail.com">write me</a>!</p>
-
-***
