@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Smart Legion <sup>Lab</sup></h1>
 
-<!--
-**smartlegionlab/smartlegionlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+[![https://github.com/smartlegionlab](https://img.shields.io/static/v1?label=GitHub:&message=profile&color=blue)](https://github.com/smartlegionlab)
+[![https://pypi.org/user/smartlegionlab/](https://img.shields.io/static/v1?label=PyPi:&message=profile&color=blue)](https://pypi.org/user/smartlegionlab/)
+[![smartlegiondev@gmail.com](https://img.shields.io/static/v1?label=Email:&message=smartlegiondev@gmail.com&color=blue)](mailto:smartlegiondev@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<img alt="Keyboard image" src="https://github.com/smartlegionlab/smartlegionlab/raw/master/images/i.gif">
+
+<hr>
+
+> Development of packages, console, graphical and web applications on Python/Django.
+
+<hr>
