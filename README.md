@@ -1,5 +1,7 @@
 <h1>Smart Legion <sup>Lab</sup></h1>
 
+> Development of packages, console, graphical and web applications on Python/Django.
+
 <hr>
 
 <p align="center">
@@ -10,10 +12,6 @@
 
 [![https://github.com/smartlegionlab](https://img.shields.io/static/v1?label=GitHub:&message=profile&color=blue)](https://github.com/smartlegionlab)
 [![https://pypi.org/user/smartlegionlab/](https://img.shields.io/static/v1?label=PyPi:&message=profile&color=blue)](https://pypi.org/user/smartlegionlab/)
-
-<hr>
-
-> Development of packages, console, graphical and web applications on Python/Django.
 
 <hr>
 
