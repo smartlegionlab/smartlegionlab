@@ -15,3 +15,5 @@
 > Development of packages, console, graphical and web applications on Python/Django.
 
 <hr>
+
+<strong>I'm looking for an interesting, well-paid job.</strong>
