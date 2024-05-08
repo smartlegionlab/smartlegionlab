@@ -18,7 +18,7 @@
 <strong>I'm looking for an interesting, well-paid job.</strong>
 
 ### How to reach me :mailbox:
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/smartlegiolab)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/smartlegionlab)
 
 ---
 
