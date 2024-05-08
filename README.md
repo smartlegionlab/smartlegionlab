@@ -27,6 +27,6 @@
 ---
 
 <p align="center">
- <img width="1000" src="images/i.gif" alt="i"/>
+ <img src="images/i.gif" alt="i"/>
 </p>
 
