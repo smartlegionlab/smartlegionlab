@@ -2,6 +2,25 @@
 
 > Development of packages, console, graphical and web applications on Python/Django.
 
+---
+
+> I am a developer specializing in creating web applications, libraries, console and graphical applications, as well as bots for Telegram and VKontakte using Python.
+
+**My Services:**
+- **Web Applications**: I create modern and functional solutions that meet client needs.
+- **Libraries and Packages**: I develop tools that simplify the development process and make it more efficient.
+- **Console Applications**: I automate routine tasks to save you time.
+- **Graphical Applications**: I design intuitive interfaces that are easy to use.
+- **Bots**: I create intelligent bots for automating customer communication, helping to enhance interaction.
+
+**Why Choose Me?**
+- I possess a high level of professionalism and experience in my field.
+- I take an individual approach to each project, considering all your wishes.
+- I guarantee high quality and reliability in my solutions.
+- I provide full support at all stages of development.
+
+With me, you will have a reliable partner to achieve your business goals!
+
 <hr>
 
 <p align="center">
@@ -18,7 +37,7 @@
 <strong>I'm looking for an interesting, well-paid job.</strong>
 
 ### How to reach me :mailbox:
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/smartlegionlab)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/smartlegionlabbot)
 
 ---
 
