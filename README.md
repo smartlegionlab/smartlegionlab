@@ -1,10 +1,10 @@
 <h1>Smart Legion <sup>Lab</sup></h1>
 
-> Development of packages, console, graphical and web applications on Python/Django.
+> Development of packages, console, graphical and web applications on Python.
 
 ---
 
-> I am a developer specializing in creating web applications, libraries, console and graphical applications, as well as bots for Telegram and VKontakte using Python.
+> I am a developer specializing in creating web applications, libraries, console and graphical applications, as well as bots for Telegram and VK using Python.
 
 **My Services:**
 - **Web Applications**: I create modern and functional solutions that meet client needs.
