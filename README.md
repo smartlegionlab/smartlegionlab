@@ -9,10 +9,10 @@ Development of:
 
 - web applications
 - libraries
-- console
-- graphical applications,
+- cli
+- desktop
 
-as well as bots for Telegram and VK using Python.
+applications, as well as bots for Telegram and VK using Python.
 
 <hr>
 
