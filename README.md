@@ -4,9 +4,15 @@
 
 Independent researcher and developer in the field of cryptography and security. I create open-source tools based on new paradigms - for example, for authentication without storing passwords and communication without transmitting data.
 
----
 
-Development of web applications, libraries, console and graphical applications, as well as bots for Telegram and VK using Python.
+Development of:
+
+- web applications
+- libraries
+- console
+- graphical applications,
+
+as well as bots for Telegram and VK using Python.
 
 <hr>
 
