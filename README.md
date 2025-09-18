@@ -2,6 +2,8 @@
 
 ---
 
+**Python/Django architect. Full cycle: from architecture to production**
+
 **Independent Cryptography Researcher & Security Developer**  
 *Pioneering paradigms for passwordless authentication and zero-transmission communication through open-source innovation.*
 
