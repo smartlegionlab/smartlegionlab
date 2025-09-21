@@ -61,9 +61,9 @@ Developing revolutionary open-source tools that challenge conventional security 
 [![PyPI](https://img.shields.io/badge/PyPI-Profile-blue?logo=pypi)](https://pypi.org/user/smartlegionlab/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Articles-blue?logo=dev.to)](https://dev.to/smartlegionlab)
 
-**Public Repositories**: 40+
-**Total Packages**: 25+  
-**Monthly Downloads**: 15000+  
+- **Public Repositories**: 40+
+- **Total Packages**: 25+  
+- **Monthly Downloads**: 15000+  
 
 ---
 
