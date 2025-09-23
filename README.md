@@ -10,6 +10,10 @@
 
 ---
 
+Author and inventor of the new paradigm: **The Pointer-Based Paradigm**: A Practical Shift from Data Protection to Data Non-Existence
+
+---
+
 <p align="center">
  <img width="1000" src="images/github-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
