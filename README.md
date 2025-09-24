@@ -4,11 +4,8 @@
 
 **Python/Django architect. Full cycle: from architecture to production**
 
-**Independent Cryptography Researcher & Security Developer**
+**Independent Security Researcher | Author of [**The Pointer-Based Security Paradigm**](https://github.com/smartlegionlab/pointer-based-security-paradigm)**
 
----
-
-Author and inventor of the new paradigm: [**The Pointer-Based Security Paradigm**](https://github.com/smartlegionlab/pointer-based-security-paradigm): A Practical Shift from Data Protection to Data Non-Existence
 
 ---
 
