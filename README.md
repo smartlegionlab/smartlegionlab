@@ -12,12 +12,6 @@ Author and inventor of the new paradigm: [**The Pointer-Based Security Paradigm*
 
 ---
 
-<p align="center">
- <img width="1000" src="images/github-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
 ## 🛠️ Technical Expertise
 
 ### Development Domains
@@ -88,6 +82,12 @@ Seeking challenging opportunities in:
 **Primary OS**: Arch Linux ❤️  
 **Philosophy**: Open Source, Privacy-First, Security by Design  
 **Approach**: Research-Driven Development, Paradigm-Shifting Innovation
+
+---
+
+<p align="center">
+ <img width="1000" src="images/github-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
 
