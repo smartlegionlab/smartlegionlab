@@ -28,7 +28,7 @@ Developing revolutionary open-source tools that challenge conventional security 
 ### Security Ecosystem
 
 [![The Pointer-Based Security Paradigm](https://img.shields.io/badge/🛡️-The_Pointer_Based_Security_Paradigm-blue)](https://github.com/smartlegionlab/pointer-based-security-paradigm)
-*Deterministic password generation library*
+*A Practical Shift from Data Protection to Data Non-Existence*
 
 [![SmartPassLib](https://img.shields.io/badge/📚-SmartPassLib-blue)](https://github.com/smartlegionlab/smartpasslib)
 *Deterministic password generation library*
@@ -36,7 +36,7 @@ Developing revolutionary open-source tools that challenge conventional security 
 [![Chrono-Library Messenger](https://img.shields.io/badge/✉️-Chrono_Library_Messenger-blue)](https://github.com/smartlegionlab/chrono-library-messenger)
 *Zero-transmission messaging protocol*
 
-[![CLI Password Tools](https://img.shields.io/badge/💻-CLI_Tools-blue)](https://github.com/smartlegionlab/clipassgen)
+[![CLI Password Tools](https://img.shields.io/badge/💻-CLI_Tools-blue)](https://github.com/smartlegionlab/clipassman)
 *Console-based security utilities*
 
 ### Production Applications
