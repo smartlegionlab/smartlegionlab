@@ -10,7 +10,7 @@
 
 ---
 
-Author and inventor of the new paradigm: **The Pointer-Based Security Paradigm**: A Practical Shift from Data Protection to Data Non-Existence
+Author and inventor of the new paradigm: [**The Pointer-Based Security Paradigm**](https://github.com/smartlegionlab/pointer-based-security-paradigm): A Practical Shift from Data Protection to Data Non-Existence
 
 ---
 
