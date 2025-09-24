@@ -101,7 +101,7 @@ Seeking challenging opportunities in:
  <img src="images/i.gif" alt="Innovation Icon"/>
 </p>
 
-*"We don't create information—we discover mathematical truths that were always there."*
+*"We don't create information — we discover mathematical truths that were always there."*
 
 ---
 
