@@ -40,8 +40,8 @@ Developing revolutionary open-source tools that challenge conventional security 
 
 ### Security Ecosystem
 
- [**The Pointer-Based Security Paradigm**](https://github.com/smartlegionlab/pointer-based-security-paradigm)
-*A Practical Shift from Data Protection to Data Non-Existence*
+[![The Pointer-Based Security Paradigm](https://img.shields.io/badge/🛡️-The_Pointer_Based_Security_Paradigm-blue)](https://github.com/smartlegionlab/pointer-based-security-paradigm)
+*Deterministic password generation library*
 
 [![SmartPassLib](https://img.shields.io/badge/📚-SmartPassLib-blue)](https://github.com/smartlegionlab/smartpasslib)
 *Deterministic password generation library*
