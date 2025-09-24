@@ -20,13 +20,6 @@ Author and inventor of the new paradigm: [**The Pointer-Based Security Paradigm*
 
 ---
 
-## 🔭 Current Focus
-
-Developing revolutionary open-source tools that challenge conventional security models:
-- **Zero-Storage Authentication** - Deterministic password generation without credential storage
-- **Zero-Transmission Communication** - Messaging protocols that transmit no message data
-- **Cryptographic Paradigm Shifts** - From information creation to mathematical discovery
-
 ## 🛠️ Technical Expertise
 
 ### Development Domains
@@ -36,9 +29,20 @@ Developing revolutionary open-source tools that challenge conventional security 
 - **Desktop Applications** - Native GUI applications
 - **Bot Development** - Telegram & VK integration platforms
 
+## 🔭 Current Focus
+
+Developing revolutionary open-source tools that challenge conventional security models:
+- **Zero-Storage Authentication** - Deterministic password generation without credential storage
+- **Zero-Transmission Communication** - Messaging protocols that transmit no message data
+- **Cryptographic Paradigm Shifts** - From information creation to mathematical discovery
+
 ## 🚀 Innovative Projects
 
 ### Security Ecosystem
+
+ [**The Pointer-Based Security Paradigm**](https://github.com/smartlegionlab/pointer-based-security-paradigm)
+*A Practical Shift from Data Protection to Data Non-Existence*
+
 [![SmartPassLib](https://img.shields.io/badge/📚-SmartPassLib-blue)](https://github.com/smartlegionlab/smartpasslib)
 *Deterministic password generation library*
 
@@ -54,9 +58,6 @@ Developing revolutionary open-source tools that challenge conventional security 
 
 [![Desktop Manager](https://img.shields.io/badge/🖥️-Desktop_App-blue)](https://github.com/smartlegionlab/smart-password-manager-desktop)
 *Cross-platform desktop application*
-
-[![Telegram Bot](https://img.shields.io/badge/🤖-Telegram_Bot-blue)](https://t.me/smartpasswordmanagerbot)
-*Mobile-accessible password management*
 
 ---
 
@@ -84,7 +85,6 @@ Seeking challenging opportunities in:
 ## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/📧-smartlegiondev@gmail.com-blue)](mailto:smartlegiondev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/👔-LinkedIn_Profile-blue)](https://linkedin.com/in/alexander-suvorov-security)
 [![Telegram](https://img.shields.io/badge/💬-Telegram-blue)](https://t.me/smartlegionlab)
 
 ---
