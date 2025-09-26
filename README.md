@@ -6,7 +6,7 @@
 
 **Independent Security Researcher | Author of:
 
-[**The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence**](https://github.com/smartlegionlab/pointer-based-security-paradigm)
+[**The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence**](https://doi.org/10.5281/zenodo.17204737)
 
 > **DOI:** [10.5281/zenodo.17204737](https://doi.org/10.5281/zenodo.17204737) | 
 > **Published:** September 26, 2025
