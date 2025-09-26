@@ -4,8 +4,25 @@
 
 **Python/Django architect. Full cycle: from architecture to production**
 
-**Independent Security Researcher | Author of [**The Pointer-Based Security Paradigm**](https://github.com/smartlegionlab/pointer-based-security-paradigm)**
+**Independent Security Researcher | Author of:
 
+[**The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence**](https://github.com/smartlegionlab/pointer-based-security-paradigm)
+
+> **DOI:** [10.5281/zenodo.17204737](https://doi.org/10.5281/zenodo.17204737) | 
+> **Published:** September 26, 2025
+
+## 📚 Academic Publication
+
+This paradigm is now formally published. Cite as:
+
+```bibtex
+@article{suvorov2025pointer,
+  author = {Suvorov, Alexander},
+  title = {The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence},
+  year = {2025},
+  doi = {10.5281/zenodo.17204737}
+}
+```
 
 ---
 
@@ -53,6 +70,7 @@ Developing revolutionary open-source tools that challenge conventional security 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/smartlegionlab)
 [![PyPI](https://img.shields.io/badge/PyPI-Profile-blue?logo=pypi)](https://pypi.org/user/smartlegionlab/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Articles-blue?logo=dev.to)](https://dev.to/smartlegionlab)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17204738.svg)](https://doi.org/10.5281/zenodo.17204738)
 
 - **Public Repositories**: 40+
 - **Total Packages**: 25+  
