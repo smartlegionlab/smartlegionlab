@@ -6,9 +6,9 @@
 
 **Independent Security Researcher | Author of:
 
-[**The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence**](https://doi.org/10.5281/zenodo.17204737)
+[**The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence**](https://doi.org/10.5281/zenodo.17204738)
 
-> **DOI:** [10.5281/zenodo.17204737](https://doi.org/10.5281/zenodo.17204737) | 
+> **DOI:** [10.5281/zenodo.17204738](https://doi.org/10.5281/zenodo.17204738) | 
 > **Published:** September 26, 2025
 
 ## 📚 Academic Publication
