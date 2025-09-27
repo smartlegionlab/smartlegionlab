@@ -16,11 +16,16 @@
 This paradigm is now formally published. Cite as:
 
 ```bibtex
-@article{suvorov2025pointer,
-  author = {Suvorov, Alexander},
-  title = {The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence},
-  year = {2025},
-  doi = {10.5281/zenodo.17204738}
+@misc{suvorov_2025_17204738,
+  author       = {Suvorov, Alexander},
+  title        = {The Pointer-Based Security Paradigm: Architectural
+                   Shift from Data Protection to Data Non-Existence
+                  },
+  month        = sep,
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17204738},
+  url          = {https://doi.org/10.5281/zenodo.17204738},
 }
 ```
 
