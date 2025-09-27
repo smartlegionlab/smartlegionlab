@@ -46,7 +46,6 @@ This paradigm is now formally published. Cite as:
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/smartlegionlab)
 [![PyPI](https://img.shields.io/badge/PyPI-Profile-blue?logo=pypi)](https://pypi.org/user/smartlegionlab/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Articles-blue?logo=dev.to)](https://dev.to/smartlegionlab)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17204738.svg)](https://doi.org/10.5281/zenodo.17204738)
 
 - **Public Repositories**: 40+
@@ -64,8 +63,7 @@ Seeking challenging opportunities in:
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/📧-smartlegiondev@gmail.com-blue)](mailto:smartlegiondev@gmail.com)
-[![Telegram](https://img.shields.io/badge/💬-Telegram-blue)](https://t.me/smartlegionlab)
+[![Email](https://img.shields.io/badge/📧-smartlegionlab@gmail.com-blue)](mailto:smartlegionlab@gmail.com)
 
 ---
 
