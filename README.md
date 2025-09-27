@@ -4,7 +4,7 @@
 
 **Python/Django architect. Full cycle: from architecture to production**
 
-**Independent Security Researcher | Author of:
+Author of:
 
 [**The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence**](https://doi.org/10.5281/zenodo.17204738)
 
@@ -40,34 +40,6 @@ This paradigm is now formally published. Cite as:
 - **Desktop Applications** - Native GUI applications
 - **Bot Development** - Telegram & VK integration platforms
 
-Developing revolutionary open-source tools that challenge conventional security models:
-- **Zero-Storage Authentication** - Deterministic password generation without credential storage
-- **Zero-Transmission Communication** - Messaging protocols that transmit no message data
-- **Cryptographic Paradigm Shifts** - From information creation to mathematical discovery
-
-## 🚀 Innovative Projects
-
-### Security Ecosystem
-
-[![The Pointer-Based Security Paradigm](https://img.shields.io/badge/🛡️-The_Pointer_Based_Security_Paradigm-blue)](https://github.com/smartlegionlab/pointer-based-security-paradigm)
-*A Practical Shift from Data Protection to Data Non-Existence*
-
-[![SmartPassLib](https://img.shields.io/badge/📚-SmartPassLib-blue)](https://github.com/smartlegionlab/smartpasslib)
-*Deterministic password generation library*
-
-[![Chrono-Library Messenger](https://img.shields.io/badge/✉️-Chrono_Library_Messenger-blue)](https://github.com/smartlegionlab/chrono-library-messenger)
-*Zero-transmission messaging protocol*
-
-[![CLI Password Tools](https://img.shields.io/badge/💻-CLI_Tools-blue)](https://github.com/smartlegionlab/clipassman)
-*Console-based security utilities*
-
-### Production Applications
-[![Web Password Manager](https://img.shields.io/badge/🌐-Web_Manager-blue)](https://github.com/smartlegionlab/smart-password-manager)
-*Django-based web interface*
-
-[![Desktop Manager](https://img.shields.io/badge/🖥️-Desktop_App-blue)](https://github.com/smartlegionlab/smart-password-manager-desktop)
-*Cross-platform desktop application*
-
 ---
 
 ## 📊 Open Source Presence
@@ -100,8 +72,6 @@ Seeking challenging opportunities in:
 ## 🐧 Development Environment
 
 **Primary OS**: Arch Linux ❤️  
-**Philosophy**: Open Source, Privacy-First, Security by Design  
-**Approach**: Research-Driven Development, Paradigm-Shifting Innovation
 
 ---
 
