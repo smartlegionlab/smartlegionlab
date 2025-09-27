@@ -29,7 +29,7 @@ This paradigm is now formally published. Cite as:
 }
 ```
 
-Technical article The [Pointer-Based Security Paradigm](https://dev.to/smartlegionlab/the-pointer-based-security-paradigm-a-practical-shift-from-data-protection-to-data-non-existence-h82) on dev.to
+Technical article The [Pointer-Based Security Paradigm](https://dev.to/smartlegionlab/the-pointer-based-security-paradigm-a-practical-shift-from-data-protection-to-data-non-existence-h82) on [dev.to](https://dev.to/smartlegionlab/)
 
 ---
 
