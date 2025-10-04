@@ -1,35 +1,60 @@
-# Alexander Suvorov
+# 🚀 Alexander Suvorov | Python/Django Architect
+**Full-cycle development: from system architecture to production deployment**
 
 ---
 
-**Python/Django architect. Full cycle: from architecture to production**
+## 📚 Academic Research & Publications
 
-Author of:
+### 🔐 The Pointer-Based Security Paradigm
+**Architectural Shift from Data Protection to Data Non-Existence**
 
-[**The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence**](https://doi.org/10.5281/zenodo.17204738)
+> A fundamental rethinking of digital security architecture that eliminates vulnerable data existence rather than protecting it.
 
-> **DOI:** [10.5281/zenodo.17204738](https://doi.org/10.5281/zenodo.17204738) | 
-> **Published:** September 26, 2025
+**🔗 Links:**
+- **📄 Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17204738)
+- **💻 Code:** [GitHub Repository](https://github.com/smartlegionlab/pointer-based-security-paradigm)
+- **📖 Article:** [dev.to Technical Deep Dive](https://dev.to/smartlegionlab/the-pointer-based-security-paradigm-a-practical-shift-from-data-protection-to-data-non-existence-h82)
 
-## 📚 Academic Publication
+**🏷️ Metadata:**
+- **DOI:** `10.5281/zenodo.17204738`
+- **Published:** September 26, 2024
+- **Status:** 🔬 Theoretical Research
 
-This paradigm is now formally published. Cite as:
+---
 
-```bibtex
-@misc{suvorov_2025_17204738,
-  author       = {Suvorov, Alexander},
-  title        = {The Pointer-Based Security Paradigm: Architectural
-                   Shift from Data Protection to Data Non-Existence
-                  },
-  month        = sep,
-  year         = 2025,
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.17204738},
-  url          = {https://doi.org/10.5281/zenodo.17204738},
-}
-```
+### 🔄 The Local Data Regeneration Paradigm  
+**Ontological Shift from Data Transmission to Synchronous State Discovery**
 
-Technical article The [Pointer-Based Security Paradigm](https://dev.to/smartlegionlab/the-pointer-based-security-paradigm-a-practical-shift-from-data-protection-to-data-non-existence-h82) on [dev.to](https://dev.to/smartlegionlab/)
+> Fundamental theoretical work proposing an alternative to classical information transmission, where data is regenerated locally through synchronized computation rather than physically transferred.
+
+**🔗 Links:**
+- **📄 Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17264327)
+- **💻 Code:** [GitHub Repository](https://github.com/smartlegionlab/local-data-regeneration-paradigm)
+
+**🏷️ Metadata:**
+- **DOI:** `10.5281/zenodo.17264327` 
+- **Published:** October 4, 2024
+- **Status:** 🔬 Theoretical Research
+
+---
+
+## 🎓 Research Impact
+- **80+ downloads** in first week across publications
+- **100% view-to-download conversion** rate
+- Active discussion in academic communities
+
+---
+
+## 💡 Professional Philosophy
+*"Sometimes the most efficient communication occurs not through better transmission, but through eliminating the need to transmit."*
+
+---
+
+## 📫 Connect & Collaborate
+- **GitHub:** [@smartlegionlab](https://github.com/smartlegionlab)
+- **Technical Writing:** [dev.to](https://dev.to/smartlegionlab)
+- [![Email](https://img.shields.io/badge/📧-smartlegionlab@gmail.com-blue)](mailto:smartlegionlab@gmail.com)
+
 
 ---
 
@@ -60,12 +85,6 @@ Technical article The [Pointer-Based Security Paradigm](https://dev.to/smartlegi
 
 Seeking challenging opportunities in:
 - **Technical Innovation** - Solving complex problems with elegant solutions
-
----
-
-## 📫 Let's Connect
-
-[![Email](https://img.shields.io/badge/📧-smartlegionlab@gmail.com-blue)](mailto:smartlegionlab@gmail.com)
 
 ---
 
