@@ -73,7 +73,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/smartlegionlab)
 [![PyPI](https://img.shields.io/badge/PyPI-Profile-blue?logo=pypi)](https://pypi.org/user/smartlegionlab/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17204738.svg)](https://doi.org/10.5281/zenodo.17204738)
 
 - **Public Repositories**: 40+
 - **Total Packages**: 25+  
