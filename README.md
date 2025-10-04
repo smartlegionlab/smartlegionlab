@@ -30,6 +30,7 @@
 **🔗 Links:**
 - **📄 Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17264327)
 - **💻 Code:** [GitHub Repository](https://github.com/smartlegionlab/local-data-regeneration-paradigm)
+- **📖 Article:** [dev.to Technical Deep Dive](https://dev.to/smartlegionlab/the-local-data-regeneration-paradigm-ontological-shift-from-data-transmission-to-synchronous-state-21e)
 
 **🏷️ Metadata:**
 - **DOI:** `10.5281/zenodo.17264327` 
