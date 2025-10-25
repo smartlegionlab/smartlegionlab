@@ -175,4 +175,4 @@ Seeking challenging opportunities in:
 
 ---
 
-*"Architecture is not just about building systems that work, but about designing systems that cannot fail in catastrophic ways."*
+*"Simplicity is the ultimate sophistication in system design - not the absence of complexity, but the perfect organization of it."*
