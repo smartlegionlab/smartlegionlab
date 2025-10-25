@@ -1,12 +1,14 @@
 # Alexander Suvorov
 
-Software Architect | Author of Pointer-Based Security & Local Data Regeneration Paradigms
+**Software Architect | Author of Pointer-Based Security & Local Data Regeneration Paradigms**
 
-[![Website](https://img.shields.io/badge/Website-Portfolio-blue)](https://smartlegionlab.ru)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:smartlegionlab@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/smartlegionlab)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3427--9611-brightgreen)](https://orcid.org/0009-0006-3427-9611)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Blog-black)](https://dev.to/smartlegionlab)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-smartlegionlab.ru-blue)](https://smartlegionlab.ru)
+[![Research](https://img.shields.io/badge/🔬_Research-alexander--suvorov.ru-green)](https://alexander-suvorov.ru)
+[![Email](https://img.shields.io/badge/📧_Contact_Me-smartlegionlab@gmail.com-red)](mailto:smartlegionlab@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-@smartlegionlab-black)](https://github.com/smartlegionlab)
+[![ORCID](https://img.shields.io/badge/📚_ORCID-0009--0006--3427--9611-brightgreen)](https://orcid.org/0009-0006-3427-9611)
+[![PyPI](https://img.shields.io/badge/🐍_PyPI-@smartlegionlab-orange)](https://pypi.org/user/smartlegionlab/)
+[![Dev.to](https://img.shields.io/badge/📖_Blog-dev.to/@smartlegionlab-black)](https://dev.to/smartlegionlab)
 
 ---
 
@@ -24,7 +26,7 @@ Software Architect | Author of Pointer-Based Security & Local Data Regeneration 
 
 **Core Transformations:**
 - Data Transmission → Synchronous Discovery
-- Secret Storage → Deterministic Regeneration
+- Secret Storage → Deterministic Regeneration  
 - Attack Surface Protection → Architectural Elimination
 
 ---
@@ -66,41 +68,58 @@ Software Architect | Author of Pointer-Based Security & Local Data Regeneration 
 
 ## 🛠️ Technical Expertise
 
-### Development Domains
+### 💻 Development Domains
 - **Web Applications** - Full-stack development with modern frameworks
-- **Python Libraries** - Domain-specific packages and tools
+- **Python Libraries** - Domain-specific packages and tools  
 - **CLI Tools** - Cross-platform command-line utilities
 - **Desktop Applications** - Native GUI applications
 - **Bot Development** - Telegram & VK integration platforms
 - **Game Development** - Deterministic engines and procedural generation
 
-### Core Technologies
+### 🔧 Core Technologies
 ```
 Python • Django • Django REST Framework • PostgreSQL • Redis
 JavaScript • HTML5 • CSS3 • Bootstrap • REST APIs • WebSockets
-Docker • Linux • Git • Algorithm Design
+Docker • Linux • Git • Algorithm Design • FastAPI • Celery
 ```
 
-### Research & Architecture
-- **Security Architecture** - Pointer-based security paradigms
-- **Information Theory** - Local data regeneration frameworks
-- **Deterministic Systems** - Game engines and simulation systems
-- **Procedural Generation** - Infinite world generation algorithms
-- **System Architecture** - Scalable backend systems and APIs
+### 🎯 Professional Specializations
+
+#### 🏗️ Architecture & Systems
+- Security Architecture & Paradigm Design
+- High-Performance System Optimization  
+- Scalable Backend & API Development
+- Legacy System Modernization
+
+#### 🔬 Research & Development
+- Information Theory & Data Paradigms
+- Deterministic Systems & Simulation
+- Procedural Generation Algorithms
+- Theoretical Computer Science
+
+#### 💻 Technical Domains
+- Full-Stack Web Development
+- Python Ecosystem & Package Development
+- Desktop & CLI Application Development
+- Bot Platform Integration
 
 ---
 
 ## 📊 Open Source Impact
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/smartlegionlab)
-[![PyPI](https://img.shields.io/badge/PyPI-Profile-blue)](https://pypi.org/user/smartlegionlab/)
-
 | Metric | Count |
 |--------|-------|
-| **Public Repositories** | 40+ |
-| **PYPI Packages** | 25+ |
-| **Monthly package downloads** | 15,000+ |
-| **Research Paradigms** | 3 |
+| **Public Repositories** | 35+ |
+| **PyPI Packages** | 20+ |
+| **Monthly Downloads** | 15,000+ |
+| **Research Publications** | 3 |
+| **Technical Articles** | 5+ |
+
+### 🐍 Popular PyPI Packages
+[![smartpasslib](https://img.shields.io/badge/smartpasslib-Password_Generator-blue)](https://pypi.org/project/smartpasslib/)
+[![clipassman](https://img.shields.io/badge/clipassman-Password_Manager-green)](https://pypi.org/project/clipassman/)
+[![smart-tsp-solver](https://img.shields.io/badge/smart--tsp--solver-Algorithm-orange)](https://pypi.org/project/smart-tsp-solver/)
+[![commandman](https://img.shields.io/badge/commandman-CLI_Framework-purple)](https://pypi.org/project/commandman/)
 
 ---
 
@@ -113,7 +132,7 @@ Docker • Linux • Git • Algorithm Design
 ## 🐧 Development Environment
 
 **Primary OS**: Arch Linux ❤️  
-**Focus**: Research-driven development with architectural elegance and system verification
+**Focus:** System design that bridges theoretical computer science with production engineering
 
 ---
 
@@ -122,26 +141,38 @@ Docker • Linux • Git • Algorithm Design
 Seeking challenging opportunities in:
 
 - **Technical Innovation** - Solving complex problems with elegant solutions
-- **Research & Development** - Paradigm development and architectural transformation
+- **Research & Development** - Paradigm development and architectural transformation  
 - **Security Architecture** - Next-generation security frameworks
 - **Technical Leadership** - Full-stack architecture and system design
+- **System Optimization** - Performance tuning and legacy modernization
 
 ---
 
 ## 📫 Connect & Collaborate
 
+### 🌐 Websites
+- **Technical Portfolio**: [smartlegionlab.ru](https://smartlegionlab.ru)
+- **Research Portfolio**: [alexander-suvorov.ru](https://alexander-suvorov.ru)
+
+### 📧 Contact
 - **Email**: [smartlegionlab@gmail.com](mailto:smartlegionlab@gmail.com)
+
+### 🔬 Academic
 - **ORCID**: [0009-0006-3427-9611](https://orcid.org/0009-0006-3427-9611)
-- **Technical Writing**: [dev.to](https://dev.to/smartlegionlab)
-- **Website**: [https://smartlegionlab.ru](https://smartlegionlab.ru)
+- **Zenodo**: [Research Profile](https://doi.org/10.5281/zenodo.17383447)
+- **Academia.edu**: [Academic Profile](https://independent.academia.edu/smartlegionlab)
+
+### 💻 Development
 - **GitHub**: [@smartlegionlab](https://github.com/smartlegionlab)
-- **Research**: [Zenodo Profile](https://doi.org/10.5281/zenodo.17383447)
+- **PyPI**: [@smartlegionlab](https://pypi.org/user/smartlegionlab/)
+- **Dev.to**: [@smartlegionlab](https://dev.to/smartlegionlab)
 
 ---
 
 **Availability**: Open to consulting, research collaborations, and full-time positions  
-**Location**: Remote / Worldwide
+**Location**: Remote / Worldwide  
+**Response Time**: Typically within 24 hours
 
 ---
 
-![GitHub Contribution Snake](https://github.com/smartlegionlab/smartlegionlab/raw/master/images/github-snake.svg)
+*"Architecture is not just about building systems that work, but about designing systems that cannot fail in catastrophic ways."*
