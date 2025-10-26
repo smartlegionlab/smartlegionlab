@@ -175,4 +175,9 @@ Seeking challenging opportunities in:
 
 ---
 
+![GitHub Contribution Snake](https://github.com/smartlegionlab/smartlegionlab/raw/master/images/github-snake.svg)
 *"Simplicity is the ultimate sophistication in system design - not the absence of complexity, but the perfect organization of it."*
+
+---
+
+
