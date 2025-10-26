@@ -82,6 +82,12 @@
 - **Bot Development** - Telegram & VK integration platforms
 - **Game Development** - Deterministic engines and procedural generation
 
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=smartlegionlab&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
 ### 🔧 Core Technologies
 ```
 Python • Django • Django REST Framework • PostgreSQL • Redis
