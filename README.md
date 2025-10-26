@@ -2,6 +2,12 @@
 
 **Software Architect | Author of Pointer-Based Security & Local Data Regeneration Paradigms**
 
+---
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smartlegionlab&theme=react-dark)
+
+---
+
 [![Website](https://img.shields.io/badge/🌐_Portfolio-smartlegionlab.ru-blue)](https://smartlegionlab.ru)
 [![Research](https://img.shields.io/badge/🔬_Research-alexander--suvorov.ru-green)](https://alexander-suvorov.ru)
 [![Email](https://img.shields.io/badge/📧_Contact_Me-smartlegionlab@gmail.com-red)](mailto:smartlegionlab@gmail.com)
@@ -178,5 +184,3 @@ Seeking challenging opportunities in:
 *"Simplicity is the ultimate sophistication in system design - not the absence of complexity, but the perfect organization of it."*
 
 ---
-
-
