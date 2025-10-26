@@ -1,5 +1,3 @@
-
-
 # Alexander Suvorov
 
 **Software Architect | Author of Pointer-Based Security & Local Data Regeneration Paradigms**
@@ -10,8 +8,8 @@
 
 ---
 
-[![Technical Portfolio](https://img.shields.io/badge/🌐_Portfolio-smartlegionlab.ru-blue)](https://smartlegionlab.ru)
-[![Academic Portfolio](https://img.shields.io/badge/🔬_Research-alexander--suvorov.ru-green)](https://alexander-suvorov.ru)
+[![Technical Portfolio](https://img.shields.io/badge/🌐_Technical_Portfolio-smartlegionlab.ru-blue)](https://smartlegionlab.ru)
+[![Academic Portfolio](https://img.shields.io/badge/🔬_Academic_Portfolio-alexander--suvorov.ru-green)](https://alexander-suvorov.ru)
 [![Email](https://img.shields.io/badge/📧_Contact_Me-smartlegionlab@gmail.com-red)](mailto:smartlegionlab@gmail.com)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-@smartlegionlab-black)](https://github.com/smartlegionlab)
 [![ORCID](https://img.shields.io/badge/📚_ORCID-0009--0006--3427--9611-brightgreen)](https://orcid.org/0009-0006-3427-9611)
