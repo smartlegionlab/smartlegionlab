@@ -160,12 +160,11 @@ Seeking challenging opportunities in:
 ### 🔬 Academic
 - **ORCID**: [0009-0006-3427-9611](https://orcid.org/0009-0006-3427-9611)
 - **Zenodo**: [Research Profile](https://doi.org/10.5281/zenodo.17383447)
-- **Academia.edu**: [Academic Profile](https://independent.academia.edu/smartlegionlab)
 
 ### 💻 Development
-- **GitHub**: [@smartlegionlab](https://github.com/smartlegionlab)
-- **PyPI**: [@smartlegionlab](https://pypi.org/user/smartlegionlab/)
-- **Dev.to**: [@smartlegionlab](https://dev.to/smartlegionlab)
+- **GitHub**: [github@smartlegionlab](https://github.com/smartlegionlab)
+- **PyPI**: [pypi@smartlegionlab](https://pypi.org/user/smartlegionlab/)
+- **Dev.to**: [dev.to@smartlegionlab](https://dev.to/smartlegionlab)
 
 ---
 
