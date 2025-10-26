@@ -4,7 +4,7 @@
 
 ---
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smartlegionlab&theme=react-dark)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=smartlegionlab&theme=react-dark&random=${{random()}})
 
 ---
 
