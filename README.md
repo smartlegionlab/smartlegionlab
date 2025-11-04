@@ -154,6 +154,8 @@ Seeking challenging opportunities in:
 
 ---
 
+## 📫 Connect & Collaborate
+
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-smartlegionlab.ru-blue?style=for-the-badge&logo=google-chrome)](https://smartlegionlab.ru)
 [![Research](https://img.shields.io/badge/🔬_Research-alexander--suvorov.ru-green?style=for-the-badge&logo=googlescholar)](https://alexander-suvorov.ru)
 [![Email](https://img.shields.io/badge/📧_Email-smartlegionlab@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:smartlegionlab@gmail.com)
