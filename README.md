@@ -97,14 +97,9 @@ Docker • Linux • Git • Algorithm Design • FastAPI • Celery
 
 ### 🎯 Professional Specializations
 
-<div align="center">
-<table>
-<tr>
-<td>
-
 #### 🏗️ Architecture & Systems
 - Security Architecture & Paradigm Design
-- High-Performance System Optimization  
+- High-Performance System Optimization
 - Scalable Backend & API Development
 - Legacy System Modernization
 
@@ -120,16 +115,6 @@ Docker • Linux • Git • Algorithm Design • FastAPI • Celery
 - Desktop & CLI Application Development
 - Bot Platform Integration
 
-</td>
-<td>
-
-![GitHub Contribution Snake](https://github.com/smartlegionlab/smartlegionlab/raw/master/images/pro.gif)
-
-</td>
-</tr>
-</table>
-</div>
-
 ---
 
 ## 📊 Open Source Impact
@@ -141,12 +126,6 @@ Docker • Linux • Git • Algorithm Design • FastAPI • Celery
 | **Monthly Downloads** | 15,000+ |
 | **Research Publications** | 3 |
 | **Technical Articles** | 5+ |
-
-### 🐍 Popular PyPI Packages
-[![smartpasslib](https://img.shields.io/badge/smartpasslib-Password_Generator-blue)](https://pypi.org/project/smartpasslib/)
-[![clipassman](https://img.shields.io/badge/clipassman-Password_Manager-green)](https://pypi.org/project/clipassman/)
-[![smart-tsp-solver](https://img.shields.io/badge/smart--tsp--solver-Algorithm-orange)](https://pypi.org/project/smart-tsp-solver/)
-[![commandman](https://img.shields.io/badge/commandman-CLI_Framework-purple)](https://pypi.org/project/commandman/)
 
 ---
 
