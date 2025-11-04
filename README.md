@@ -97,6 +97,11 @@ Docker • Linux • Git • Algorithm Design • FastAPI • Celery
 
 ### 🎯 Professional Specializations
 
+<div align="center">
+<table>
+<tr>
+<td>
+
 #### 🏗️ Architecture & Systems
 - Security Architecture & Paradigm Design
 - High-Performance System Optimization  
@@ -114,6 +119,16 @@ Docker • Linux • Git • Algorithm Design • FastAPI • Celery
 - Python Ecosystem & Package Development
 - Desktop & CLI Application Development
 - Bot Platform Integration
+
+</td>
+<td>
+
+![GitHub Contribution Snake](https://github.com/smartlegionlab/smartlegionlab/raw/master/images/pro.gif)
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
