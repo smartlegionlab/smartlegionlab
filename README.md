@@ -154,23 +154,14 @@ Seeking challenging opportunities in:
 
 ---
 
-## 📫 Connect & Collaborate
-
-### 🌐 Websites
-- **Technical Portfolio**: [smartlegionlab.ru](https://smartlegionlab.ru)
-- **Research Portfolio**: [alexander-suvorov.ru](https://alexander-suvorov.ru)
-
-### 📧 Contact
-- **Email**: [smartlegionlab@gmail.com](mailto:smartlegionlab@gmail.com)
-
-### 🔬 Academic
-- **ORCID**: [0009-0006-3427-9611](https://orcid.org/0009-0006-3427-9611)
-- **Zenodo**: [Research Profile](https://doi.org/10.5281/zenodo.17383447)
-
-### 💻 Development
-- **GitHub**: [github@smartlegionlab](https://github.com/smartlegionlab)
-- **PyPI**: [pypi@smartlegionlab](https://pypi.org/user/smartlegionlab/)
-- **Dev.to**: [dev.to@smartlegionlab](https://dev.to/smartlegionlab)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-smartlegionlab.ru-blue?style=for-the-badge&logo=google-chrome)](https://smartlegionlab.ru)
+[![Research](https://img.shields.io/badge/🔬_Research-alexander--suvorov.ru-green?style=for-the-badge&logo=googlescholar)](https://alexander-suvorov.ru)
+[![Email](https://img.shields.io/badge/📧_Email-smartlegionlab@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:smartlegionlab@gmail.com)
+[![ORCID](https://img.shields.io/badge/📚_ORCID-0009--0006--3427--9611-lightgreen?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0006-3427-9611)
+[![Zenodo](https://img.shields.io/badge/🏆_Zenodo-Research_Profile-orange?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.17383447)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-@smartlegionlab-black?style=for-the-badge&logo=github)](https://github.com/smartlegionlab)
+[![PyPI](https://img.shields.io/badge/🐍_PyPI-@smartlegionlab-yellow?style=for-the-badge&logo=pypi)](https://pypi.org/user/smartlegionlab/)
+[![Dev.to](https://img.shields.io/badge/📝_Dev.to-@smartlegionlab-black?style=for-the-badge&logo=dev.to)](https://dev.to/smartlegionlab)
 
 ---
 
