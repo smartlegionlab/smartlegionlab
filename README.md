@@ -72,7 +72,7 @@
 
 ---
 
-### 🔄 Position-Candidate-Hypothesis (PCH) Paradigm
+### 🔍 Position-Candidate-Hypothesis (PCH) Paradigm
 **A New Research Direction for NP-Complete Problems**
 
 > A Structural-Statistical Approach to NP-Complete Problems.
