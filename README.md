@@ -72,6 +72,26 @@
 
 ---
 
+### 🔄 Position-Candidate-Hypothesis (PCH) Paradigm
+**A New Research Direction for NP-Complete Problems**
+
+> A Structural-Statistical Approach to NP-Complete Problems.
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17614888-blue)](https://doi.org/10.5281/zenodo.17614888)
+[![Paper](https://img.shields.io/badge/📄_Paper-Zenodo-success)](https://zenodo.org/records/17614888/files/suvorov_position_candidate_hypothesis_en.pdf?download=1)
+[![Article](https://img.shields.io/badge/📖_Article-dev.to-green)](https://dev.to/smartlegionlab/position-candidate-hypothesis-pch-paradigm-a-new-research-direction-for-np-complete-problems-2b00)
+[![GitHub](https://img.shields.io/badge/💻_Code-Repository-lightgrey)](https://github.com/smartlegionlab/position-candidate-hypothesis-paradigm)
+
+**The PCH paradigm is founded on a structural decomposition approach:**
+- Positions represent the fixed structural elements of a solution
+- Candidates constitute the assignable entities to these positions
+- Hypotheses represent independent investigative processes
+- Statistical Integration synthesizes findings across hypotheses
+
+This approach shifts the focus from permutation spaces to structured component analysis.
+
+---
+
 ## 🛠️ Technical Expertise
 
 ### 💻 Development Domains
