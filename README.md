@@ -1,6 +1,6 @@
 # Alexander Suvorov
 
-**Software Architect | Author of Pointer-Based Security & Local Data Regeneration Paradigms & Position-Candidate-Hypothesis (PCH) Paradigm**
+**Software Architect | Researcher & Paradigms Author**
 
 ---
 
