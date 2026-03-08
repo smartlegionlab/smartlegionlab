@@ -141,11 +141,12 @@ Docker • Linux • Git • Algorithm Design • FastAPI • Celery
 
 | Metric | Count |
 |--------|-------|
-| **Public Repositories** | 35+ |
-| **PyPI Packages** | 20+ |
+| **Public Repositories** | 50+ |
+| **PyPI Packages** | 25+ |
 | **Monthly Downloads** | 15,000+ |
-| **Research Publications** | 3 |
+| **Research Publications** | 4+ |
 | **Technical Articles** | 5+ |
+| **Commits** | 8000+ |
 
 ---
 
