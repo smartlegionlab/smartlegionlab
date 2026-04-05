@@ -2,6 +2,8 @@
 
 **Software Architect | Researcher & Paradigms Author**
 
+Alexander Suvorov, an independent researcher, developer, and architect, is the author of three paradigms in computer security, information theory, and structural-statistical methods for solving NP-complete problems.
+
 ---
 
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=smartlegionlab&theme=react-dark&hide_border=true&custom_title=My%20activity&area=true)
