@@ -20,9 +20,9 @@ Alexander Suvorov, an independent researcher, developer, and architect, is the a
 
 ---
 
-## 🔬 Research Paradigms & Publications
+## Research Paradigms & Publications
 
-### 🛡️ Pointer-Based Security Paradigm
+### Pointer-Based Security Paradigm
 **Architectural Transition from Data Protection to No Vulnerable Data**
 
 > A fundamental rethinking of digital security architecture that eliminates vulnerable data existence rather than protecting it.
@@ -39,7 +39,7 @@ Alexander Suvorov, an independent researcher, developer, and architect, is the a
 
 ---
 
-### 🔄 Local Data Regeneration Paradigm
+### Local Data Regeneration Paradigm
 **Ontological Shift from Data Transmission to Synchronous State Discovery**
 
 > Fundamental theoretical work proposing an alternative to classical information transmission.
@@ -56,7 +56,7 @@ Alexander Suvorov, an independent researcher, developer, and architect, is the a
 
 ---
 
-### 🎮 Deterministic Game Engine
+### Deterministic Game Engine
 **Practical Implementation of Security & Regeneration Paradigms**
 
 > Experimental validation of theoretical paradigms through research prototype.
@@ -74,7 +74,7 @@ Alexander Suvorov, an independent researcher, developer, and architect, is the a
 
 ---
 
-### 🔍 Position-Candidate-Hypothesis (PCH) Paradigm
+### Position-Candidate-Hypothesis (PCH) Paradigm
 **A New Research Direction for NP-Complete Problems**
 
 > A Structural-Statistical Approach to NP-Complete Problems.
@@ -94,9 +94,9 @@ This approach shifts the focus from permutation spaces to structured component a
 
 ---
 
-## 🛠️ Technical Expertise
+## Technical Expertise
 
-### 💻 Development Domains
+### Development Domains
 - **Web Applications** - Full-stack development with modern frameworks
 - **Python Libraries** - Domain-specific packages and tools  
 - **CLI Tools** - Cross-platform command-line utilities
@@ -110,28 +110,28 @@ This approach shifts the focus from permutation spaces to structured component a
 
 ---
 
-### 🔧 Core Technologies
+### Core Technologies
 ```
 Python • Django • Django REST Framework • PostgreSQL • Redis
 JavaScript • HTML5 • CSS3 • Bootstrap • REST APIs • WebSockets
 Docker • Linux • Git • Algorithm Design • FastAPI • Celery
 ```
 
-### 🎯 Professional Specializations
+### Professional Specializations
 
-#### 🏗️ Architecture & Systems
+#### Architecture & Systems
 - Security Architecture & Paradigm Design
 - High-Performance System Optimization
 - Scalable Backend & API Development
 - Legacy System Modernization
 
-#### 🔬 Research & Development
+#### Research & Development
 - Information Theory & Data Paradigms
 - Deterministic Systems & Simulation
 - Procedural Generation Algorithms
 - Theoretical Computer Science
 
-#### 💻 Technical Domains
+#### Technical Domains
 - Full-Stack Web Development
 - Python Ecosystem & Package Development
 - Desktop & CLI Application Development
@@ -139,7 +139,7 @@ Docker • Linux • Git • Algorithm Design • FastAPI • Celery
 
 ---
 
-## 📊 Open Source Impact
+## Open Source Impact
 
 | Metric | Count |
 |--------|-------|
@@ -152,20 +152,20 @@ Docker • Linux • Git • Algorithm Design • FastAPI • Celery
 
 ---
 
-## 💡 Professional Philosophy
+## Professional Philosophy
 
 *"Sometimes the most efficient communication occurs not through better transmission, but through eliminating the need to transmit."*
 
 ---
 
-## 🐧 Development Environment
+## Development Environment
 
 **Primary OS**: Arch Linux ❤️  
 **Focus:** System design that bridges theoretical computer science with production engineering
 
 ---
 
-## 🎯 Career Objectives
+## Career Objectives
 
 Seeking challenging opportunities in:
 
@@ -177,7 +177,7 @@ Seeking challenging opportunities in:
 
 ---
 
-## 📫 Connect & Collaborate
+## Connect & Collaborate
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-smartlegionlab.ru-blue?style=for-the-badge&logo=google-chrome)](https://smartlegionlab.ru)
 [![Research](https://img.shields.io/badge/🔬_Research-alexander--suvorov.ru-green?style=for-the-badge&logo=googlescholar)](https://alexander-suvorov.ru)
