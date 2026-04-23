@@ -115,6 +115,7 @@ This approach shifts the focus from permutation spaces to structured component a
 Python • Django • Django REST Framework • PostgreSQL • Redis
 JavaScript • HTML5 • CSS3 • Bootstrap • REST APIs • WebSockets
 Docker • Linux • Git • Algorithm Design • FastAPI • Celery
+С# • Go • Kotlin
 ```
 
 ### Professional Specializations
@@ -143,7 +144,7 @@ Docker • Linux • Git • Algorithm Design • FastAPI • Celery
 
 | Metric | Count |
 |--------|-------|
-| **Public Repositories** | 50+ |
+| **Public Repositories** | 65+ |
 | **PyPI Packages** | 25+ |
 | **Monthly Downloads** | 15,000+ |
 | **Research Publications** | 4+ |
