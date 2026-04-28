@@ -155,7 +155,7 @@ Seeking challenging opportunities in:
 
 ---
 
-**Availability**: Open to consulting, research collaborations, and full-time positions  
+**Availability**: Open to consulting, developing, research collaborations, and full-time positions  
 **Location**: Remote / Worldwide  
 **Response Time**: Typically within 24 hours
 
