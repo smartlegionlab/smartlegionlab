@@ -23,13 +23,22 @@ Alexander Suvorov, Software Architect, developer, and an independent researcher.
 - **Web Applications** - Full-stack development with modern frameworks
 - **Python Libraries** - Domain-specific packages and tools  
 - **CLI Tools** - Cross-platform command-line utilities
-- **C# applications** - Cross-platform command-line and desktop applications
-- **Kotlin applications** - Android GUI applications
+- **Mobile** - Android GUI applications
 - **Desktop Applications** - Native GUI applications
 - **Bot Development** - Telegram & VK integration platforms
 - **Game Development** - Deterministic engines and procedural generation
 - **Ecosystem Development** - I create a lot of useful ecosystems like smartpasslib ecosystem.
-- **Research** - I'm also independent Researcher focused on fundamental computer science, information theory, and computational complexity.
+- **Research** - I am also an independent researcher specializing in the fundamental sciences of computer science, security, information theory, and computational complexity.
+
+---
+
+### Core Technologies
+```
+Python • Django • Django REST Framework • PostgreSQL • Redis
+JavaScript • HTML5 • CSS3 • Bootstrap • REST APIs • WebSockets
+Docker • Linux • Git • Algorithm Design • FastAPI • Celery • Kotlin
+Go • Bash • C#
+```
 
 ---
 
@@ -155,7 +164,7 @@ Seeking challenging opportunities in:
 
 ---
 
-**Availability**: Open to consulting, developing, research collaborations, and full-time positions  
+**Availability**: Open to consulting, developing, research collaborations.
 **Location**: Remote / Worldwide  
 **Response Time**: Typically within 24 hours
 
