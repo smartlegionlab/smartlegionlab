@@ -21,13 +21,13 @@ Alexander Suvorov, Software Architect, developer, and an independent researcher.
 ### Development Domains
 - **Architecture** - I create my applications from idea to architecture and complete implementation
 - **Web Applications** - Full-stack development with modern frameworks
-- **Python Libraries** - Domain-specific packages and tools  
+- **Libraries & Cores** - Domain-specific packages and tools  
 - **CLI Tools** - Cross-platform command-line utilities
 - **Mobile** - Android GUI applications
 - **Desktop Applications** - Native GUI applications
 - **Bot Development** - Telegram & VK integration platforms
 - **Game Development** - Deterministic engines and procedural generation
-- **Ecosystem Development** - I create a lot of useful ecosystems like smartpasslib ecosystem.
+- **Ecosystem Development** - I create a lot of useful ecosystems like **smartpasslib** ecosystem.
 - **Research** - I am also an independent researcher specializing in the fundamental sciences of computer science, security, information theory, and computational complexity.
 
 ---
@@ -37,16 +37,16 @@ Alexander Suvorov, Software Architect, developer, and an independent researcher.
 Python • Django • Django REST Framework • PostgreSQL • Redis
 JavaScript • HTML5 • CSS3 • Bootstrap • REST APIs • WebSockets
 Docker • Linux • Git • Algorithm Design • FastAPI • Celery • Kotlin
-Go • Bash • C#
+Go • Bash • C# • Cross-Platform • Decentralized Architecture 
 ```
 
 ---
 
 ### Professional Specializations
 
-Software Architect with 10+ years of experience building high-performance web applications, enterprise systems, scalable platforms, ecosystems, cores, Telegram bots, desktop apps, cross-platform apps, and mobile applications. From idea to architecture and complete implementation — that's my approach to delivering robust solutions that drive business growth and technical excellence.
+Software Architect with 10+ years of experience building high-performance web applications, enterprise systems, scalable platforms, ecosystems, cores, Telegram bots, desktop apps, cross-platform apps, CLI applications, and mobile applications. From idea to architecture and complete implementation — that's my approach to delivering robust solutions that drive business growth and technical excellence.
 
-I also Author of groundbreaking paradigms including [Pointer-Based Security](https://github.com/smartlegionlab/pointer-based-security-paradigm),
+I also conduct research and Author of groundbreaking paradigms including [Pointer-Based Security](https://github.com/smartlegionlab/pointer-based-security-paradigm),
 [Local Data Regeneration](https://github.com/smartlegionlab/local-data-regeneration-paradigm), [Position-Candidate-Hypothesis](https://github.com/smartlegionlab/position-candidate-hypothesis-paradigm), and [Deterministic Game Engine (Tech report)](https://github.com/smartlegionlab/deterministic-game-engine-report).
 
 ---
