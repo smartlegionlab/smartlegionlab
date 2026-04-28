@@ -2,11 +2,7 @@
 
 **Software Architect | Researcher & Paradigms Author**
 
-Alexander Suvorov, an independent researcher, developer, and architect, is the author of three paradigms in computer security, information theory, and structural-statistical methods for solving NP-complete problems.
-
----
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=smartlegionlab&theme=react-dark&hide_border=true&custom_title=My%20activity&area=true)
+Alexander Suvorov, Software Architect, developer, and an independent researcher. Author of three paradigms in computer security, information theory, and structural-statistical methods for solving NP-complete problems.
 
 ---
 
@@ -23,25 +19,23 @@ Alexander Suvorov, an independent researcher, developer, and architect, is the a
 ## Technical Expertise
 
 ### Development Domains
+- **Architecture** - I create my applications from idea to architecture and complete implementation
 - **Web Applications** - Full-stack development with modern frameworks
 - **Python Libraries** - Domain-specific packages and tools  
 - **CLI Tools** - Cross-platform command-line utilities
+- **C# applications** - Cross-platform command-line and desktop applications
+- **Kotlin applications** - Android GUI applications
 - **Desktop Applications** - Native GUI applications
 - **Bot Development** - Telegram & VK integration platforms
 - **Game Development** - Deterministic engines and procedural generation
 - **Ecosystem Development** - I create a lot of useful ecosystems like smartpasslib ecosystem.
-
----
-
-## Professional Philosophy
-
-*"Sometimes the most efficient communication occurs not through better transmission, but through eliminating the need to transmit."*
+- **Research** - I'm also independent Researcher focused on fundamental computer science, information theory, and computational complexity.
 
 ---
 
 ### Professional Specializations
 
-Software Architect with 10+ years of experience building high-performance web applications, enterprise systems, scalable platforms, and ecosystems. From idea to architecture and complete implementation — that's my approach to delivering robust solutions that drive business growth and technical excellence.
+Software Architect with 10+ years of experience building high-performance web applications, enterprise systems, scalable platforms, ecosystems, cores, Telegram bots, desktop apps, cross-platform apps, and mobile applications. From idea to architecture and complete implementation — that's my approach to delivering robust solutions that drive business growth and technical excellence.
 
 I also Author of groundbreaking paradigms including [Pointer-Based Security](https://github.com/smartlegionlab/pointer-based-security-paradigm),
 [Local Data Regeneration](https://github.com/smartlegionlab/local-data-regeneration-paradigm), [Position-Candidate-Hypothesis](https://github.com/smartlegionlab/position-candidate-hypothesis-paradigm), and [Deterministic Game Engine (Tech report)](https://github.com/smartlegionlab/deterministic-game-engine-report).
@@ -76,11 +70,10 @@ Seeking challenging opportunities in:
 ## Development Environment
 
 **Primary OS**: Arch Linux ❤️  
-**Focus:** System design that bridges theoretical computer science with production engineering
 
 ---
 
-## My ecosystems
+## Ecosystems
 
 ### SmartPassLib's ecosystem
 
@@ -109,6 +102,8 @@ Seeking challenging opportunities in:
 - **[Pointer-Based Security Paradigm](https://github.com/smartlegionlab/pointer-based-security-paradigm)**
 - **[Local Data Regeneration Paradigm](https://github.com/smartlegionlab/local-data-regeneration-paradigm)**
 
+---
+
 ### TSP's ecosystem
 
 - **[Exact TSP Solver](https://github.com/smartlegionlab/exact-tsp-solver)**
@@ -118,6 +113,32 @@ Seeking challenging opportunities in:
 
 **Related Research:**
 - **[Position-Candidate-Hypothesis Paradigm](https://github.com/smartlegionlab/position-candidate-hypothesis-paradigm)**
+
+---
+
+### 2fa's ecosystem
+
+- **[Smart 2fa Manager Desktop](https://github.com/smartlegionlab/smart-2fa-manager-desktop)**
+- **[Smart 2fa Manager Android](https://github.com/smartlegionlab/smart-2fa-manager-android)**
+- **[Smart 2fa Manager Bash](https://github.com/smartlegionlab/smart-2fa-manager-bash)**
+- **[Smart 2fa Manager CLI](https://github.com/smartlegionlab/smart-2fa-manager-cli)**
+
+---
+
+### Smart Repository Manager's ecosystem
+
+- **[Smart Repository Manager Core](https://github.com/smartlegionlab/smart-repository-manager-core)**
+- **[Smart Repository Manager GUI](https://github.com/smartlegionlab/smart-repository-manager-gui)**
+- **[Smart Repository Manager CLI](https://github.com/smartlegionlab/smart-repository-manager-cli)**
+
+---
+
+### Research's ecosystem
+
+- [Pointer-Based Security Paradigm](https://github.com/smartlegionlab/pointer-based-security-paradigm)
+- [Local Data Regeneration Paradigm](https://github.com/smartlegionlab/local-data-regeneration-paradigm)
+- [Deterministic Game Engine (Technical Report)](https://github.com/smartlegionlab/deterministic-game-engine-report)
+- [Position-Candidate-Hypothesis Paradigm](https://github.com/smartlegionlab/position-candidate-hypothesis-paradigm)
 
 ---
 
@@ -137,6 +158,10 @@ Seeking challenging opportunities in:
 **Availability**: Open to consulting, research collaborations, and full-time positions  
 **Location**: Remote / Worldwide  
 **Response Time**: Typically within 24 hours
+
+---
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=smartlegionlab&theme=react-dark&hide_border=true&custom_title=My%20activity&area=true)
 
 ---
 
