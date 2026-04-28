@@ -21,7 +21,7 @@ Alexander Suvorov, Software Architect, developer, and an independent researcher.
 ### Development Domains
 - **Architecture** - I create my applications from idea to architecture and complete implementation
 - **Web Applications** - Full-stack development with modern frameworks
-- **Libraries & Cores** - Domain-specific packages and tools  
+- **Libraries & Cores** - Universal libraries and software cores for creating applications
 - **CLI Tools** - Cross-platform command-line utilities
 - **Mobile** - Android GUI applications
 - **Desktop Applications** - Native GUI applications
