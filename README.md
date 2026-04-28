@@ -20,80 +20,6 @@ Alexander Suvorov, an independent researcher, developer, and architect, is the a
 
 ---
 
-## Research Paradigms & Publications
-
-### Pointer-Based Security Paradigm
-**Architectural Transition from Data Protection to No Vulnerable Data**
-
-> A fundamental rethinking of digital security architecture that eliminates vulnerable data existence rather than protecting it.
-
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17204738-blue)](https://doi.org/10.5281/zenodo.17204738)
-[![Paper](https://img.shields.io/badge/📄_Paper-Zenodo-success)](https://zenodo.org/records/17204738/files/suvorov-the-pointer-based-security-paradigm-v2.pdf?download=1)
-[![Article](https://img.shields.io/badge/📖_Article-dev.to-green)](https://dev.to/smartlegionlab/the-pointer-based-security-paradigm-a-practical-shift-from-data-protection-to-data-non-existence-h82)
-[![GitHub](https://img.shields.io/badge/💻_Code-Repository-lightgrey)](https://github.com/smartlegionlab/pointer-based-security-paradigm)
-
-**Core Transformations:**
-- Data Transmission → Synchronous Discovery
-- Secret Storage → Deterministic Regeneration  
-- Attack Surface Protection → Architectural Elimination
-
----
-
-### Local Data Regeneration Paradigm
-**Ontological Shift from Data Transmission to Synchronous State Discovery**
-
-> Fundamental theoretical work proposing an alternative to classical information transmission.
-
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17264327-blue)](https://doi.org/10.5281/zenodo.17264327)
-[![Paper](https://img.shields.io/badge/📄_Paper-Zenodo-success)](https://zenodo.org/records/17264327/files/suvorov-the-local-data-regeneration-paradigm.pdf?download=1)
-[![Article](https://img.shields.io/badge/📖_Article-dev.to-green)](https://dev.to/smartlegionlab/the-local-data-regeneration-paradigm-ontological-shift-from-data-transmission-to-synchronous-state-21e)
-[![GitHub](https://img.shields.io/badge/💻_Code-Repository-lightgrey)](https://github.com/smartlegionlab/local-data-regeneration-paradigm)
-
-**Foundational Postulates:**
-- Data as System State
-- Synchronous Local Regeneration: `D = F(S, P)`
-- Communication as Pointer Synchronization
-
----
-
-### Deterministic Game Engine
-**Practical Implementation of Security & Regeneration Paradigms**
-
-> Experimental validation of theoretical paradigms through research prototype.
-
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17383447-blue)](https://doi.org/10.5281/zenodo.17383447)
-[![Report](https://img.shields.io/badge/📊_Technical_Report-Zenodo-orange)](https://zenodo.org/records/17383447/files/suvorov-smart-deterministic-game-engine-report-en.pdf?download=1)
-[![Article](https://img.shields.io/badge/📖_Article-dev.to-green)](https://dev.to/smartlegionlab/deterministic-game-engine-practical-validation-of-pointer-based-security-and-local-data-408l)
-[![GitHub](https://img.shields.io/badge/💻_Code-Repository-lightgrey)](https://github.com/smartlegionlab/deterministic-game-engine-report)
-
-**Experimental Results:**
-- O(1) state access times across all positions
-- 2.8M+ elements/second generation throughput
-- Linear O(n) scaling in entity simulation
-- State verification capabilities
-
----
-
-### Position-Candidate-Hypothesis (PCH) Paradigm
-**A New Research Direction for NP-Complete Problems**
-
-> A Structural-Statistical Approach to NP-Complete Problems.
-
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17614888-blue)](https://doi.org/10.5281/zenodo.17614888)
-[![Paper](https://img.shields.io/badge/📄_Paper-Zenodo-success)](https://zenodo.org/records/17614888/files/suvorov_position_candidate_hypothesis_en.pdf?download=1)
-[![Article](https://img.shields.io/badge/📖_Article-dev.to-green)](https://dev.to/smartlegionlab/position-candidate-hypothesis-pch-paradigm-a-new-research-direction-for-np-complete-problems-2b00)
-[![GitHub](https://img.shields.io/badge/💻_Code-Repository-lightgrey)](https://github.com/smartlegionlab/position-candidate-hypothesis-paradigm)
-
-**The PCH paradigm is founded on a structural decomposition approach:**
-- Positions represent the fixed structural elements of a solution
-- Candidates constitute the assignable entities to these positions
-- Hypotheses represent independent investigative processes
-- Statistical Integration synthesizes findings across hypotheses
-
-This approach shifts the focus from permutation spaces to structured component analysis.
-
----
-
 ## Technical Expertise
 
 ### Development Domains
@@ -103,53 +29,7 @@ This approach shifts the focus from permutation spaces to structured component a
 - **Desktop Applications** - Native GUI applications
 - **Bot Development** - Telegram & VK integration platforms
 - **Game Development** - Deterministic engines and procedural generation
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=smartlegionlab&theme=dark&card_width=1000)](https://git.io/streak-stats)
-
----
-
-### Core Technologies
-```
-Python • Django • Django REST Framework • PostgreSQL • Redis
-JavaScript • HTML5 • CSS3 • Bootstrap • REST APIs • WebSockets
-Docker • Linux • Git • Algorithm Design • FastAPI • Celery
-С# • Go • Kotlin
-```
-
-### Professional Specializations
-
-#### Architecture & Systems
-- Security Architecture & Paradigm Design
-- High-Performance System Optimization
-- Scalable Backend & API Development
-- Legacy System Modernization
-
-#### Research & Development
-- Information Theory & Data Paradigms
-- Deterministic Systems & Simulation
-- Procedural Generation Algorithms
-- Theoretical Computer Science
-
-#### Technical Domains
-- Full-Stack Web Development
-- Python Ecosystem & Package Development
-- Desktop & CLI Application Development
-- Bot Platform Integration
-
----
-
-## Open Source Impact
-
-| Metric | Count |
-|--------|-------|
-| **Public Repositories** | 65+ |
-| **PyPI Packages** | 25+ |
-| **Monthly Downloads** | 15,000+ |
-| **Research Publications** | 4+ |
-| **Technical Articles** | 5+ |
-| **Commits** | 8000+ |
+- **Ecosystem Development** - I create a lot of useful ecosystems like smartpasslib ecosystem.
 
 ---
 
@@ -159,10 +39,12 @@ Docker • Linux • Git • Algorithm Design • FastAPI • Celery
 
 ---
 
-## Development Environment
+### Professional Specializations
 
-**Primary OS**: Arch Linux ❤️  
-**Focus:** System design that bridges theoretical computer science with production engineering
+Software Architect with 10+ years of experience building high-performance web applications, enterprise systems, scalable platforms, and ecosystems. From idea to architecture and complete implementation — that's my approach to delivering robust solutions that drive business growth and technical excellence.
+
+I also Author of groundbreaking paradigms including [Pointer-Based Security](https://github.com/smartlegionlab/pointer-based-security-paradigm),
+[Local Data Regeneration](https://github.com/smartlegionlab/local-data-regeneration-paradigm), [Position-Candidate-Hypothesis](https://github.com/smartlegionlab/position-candidate-hypothesis-paradigm), and [Deterministic Game Engine (Tech report)](https://github.com/smartlegionlab/deterministic-game-engine-report).
 
 ---
 
@@ -175,6 +57,67 @@ Seeking challenging opportunities in:
 - **Security Architecture** - Next-generation security frameworks
 - **Technical Leadership** - Full-stack architecture and system design
 - **System Optimization** - Performance tuning and legacy modernization
+
+---
+
+## Open Source Impact
+
+| Metric                    | Count   |
+|---------------------------|---------|
+| **Public Repositories**   | 65+     |
+| **PyPI Packages**         | 25+     |
+| **Monthly Downloads**     | 15,000+ |
+| **Research Publications** | 4       |
+| **Technical Articles**    | 5+      |
+| **Commits**               | 11000+  |
+
+---
+
+## Development Environment
+
+**Primary OS**: Arch Linux ❤️  
+**Focus:** System design that bridges theoretical computer science with production engineering
+
+---
+
+## My ecosystems
+
+### SmartPassLib's ecosystem
+
+**Core Libraries:**
+- **[smartpasslib](https://github.com/smartlegionlab/smartpasslib)** - Python
+- **[smartpasslib-js](https://github.com/smartlegionlab/smartpasslib-js)** - JavaScript
+- **[smartpasslib-kotlin](https://github.com/smartlegionlab/smartpasslib-kotlin)** - Kotlin
+- **[smartpasslib-go](https://github.com/smartlegionlab/smartpasslib-go)** - Go
+- **[smartpasslib-csharp](https://github.com/smartlegionlab/smartpasslib-csharp)** - C#
+
+**CLI Applications:**
+- **[CLI Smart Password Manager (Python)](https://github.com/smartlegionlab/clipassman)**
+- **[CLI Smart Password Generator (Python)](https://github.com/smartlegionlab/clipassgen)**
+- **[CLI Smart Password Manager (C#)](https://github.com/smartlegionlab/SmartPasswordManagerCsharpCli)**
+- **[CLI Smart Password Generator (C#)](https://github.com/smartlegionlab/SmartPasswordGeneratorCsharpCli)**
+
+**Desktop Applications:**
+- **[Desktop Smart Password Manager (Python)](https://github.com/smartlegionlab/smart-password-manager-desktop)**
+- **[Desktop Smart Password Manager (C#)](https://github.com/smartlegionlab/SmartPasswordManagerCsharpDesktop)**
+
+**Other:**
+- **[Web Smart Password Manager](https://github.com/smartlegionlab/smart-password-manager-web)**
+- **[Android Smart Password Manager](https://github.com/smartlegionlab/smart-password-manager-android)**
+
+**Related Research:**
+- **[Pointer-Based Security Paradigm](https://github.com/smartlegionlab/pointer-based-security-paradigm)**
+- **[Local Data Regeneration Paradigm](https://github.com/smartlegionlab/local-data-regeneration-paradigm)**
+
+### TSP's ecosystem
+
+- **[Exact TSP Solver](https://github.com/smartlegionlab/exact-tsp-solver)**
+- **[Smart TSP Benchmark](https://github.com/smartlegionlab/smart-tsp-benchmark)**
+- **[Smart TSP Oracle](https://github.com/smartlegionlab/smart-tsp-oracle)**
+- **[Smart TSP Solver](https://github.com/smartlegionlab/smart-tsp-solver)**
+
+**Related Research:**
+- **[Position-Candidate-Hypothesis Paradigm](https://github.com/smartlegionlab/position-candidate-hypothesis-paradigm)**
 
 ---
 
@@ -197,8 +140,8 @@ Seeking challenging opportunities in:
 
 ---
 
-![GitHub Contribution Snake](https://github.com/smartlegionlab/smartlegionlab/raw/master/images/github-snake.svg)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=smartlegionlab&theme=dark&card_width=1000)](https://git.io/streak-stats)
 
 ---
 
-*"Simplicity is the ultimate sophistication in system design - not the absence of complexity, but the perfect organization of it."*
+![GitHub Contribution Snake](https://github.com/smartlegionlab/smartlegionlab/raw/master/images/github-snake.svg)
