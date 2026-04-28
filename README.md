@@ -148,7 +148,7 @@ Seeking challenging opportunities in:
 [![Research](https://img.shields.io/badge/🔬_Research-alexander--suvorov.ru-green?style=for-the-badge&logo=googlescholar)](https://alexander-suvorov.ru)
 [![Email](https://img.shields.io/badge/📧_Email-smartlegionlab@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:smartlegionlab@gmail.com)
 [![ORCID](https://img.shields.io/badge/📚_ORCID-0009--0006--3427--9611-lightgreen?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0006-3427-9611)
-[![Zenodo](https://img.shields.io/badge/🏆_Zenodo-Research_Profile-orange?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.17383447)
+[![Zenodo](https://img.shields.io/badge/🏆_Zenodo-Research_Profile-orange?style=for-the-badge&logo=zenodo)](https://zenodo.org/records/17204738)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-@smartlegionlab-black?style=for-the-badge&logo=github)](https://github.com/smartlegionlab)
 [![PyPI](https://img.shields.io/badge/🐍_PyPI-@smartlegionlab-yellow?style=for-the-badge&logo=pypi)](https://pypi.org/user/smartlegionlab/)
 [![Dev.to](https://img.shields.io/badge/📝_Dev.to-@smartlegionlab-black?style=for-the-badge&logo=dev.to)](https://dev.to/smartlegionlab)
