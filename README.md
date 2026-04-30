@@ -21,32 +21,28 @@ and structural-statistical methods for NP-complete problems.
 
 ---
 
-## Research Publications
+## Quick Stats
 
-| # | Publication                                                                                                              | DOI                                                                | Type                 | Date     |
-|---|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------|----------|
-| 1 | [Pointer-Based Security Paradigm](https://github.com/smartlegionlab/pointer-based-security-paradigm)                     | [10.5281/zenodo.17204738](https://doi.org/10.5281/zenodo.17204738) | Theoretical Research | Sep 2025 |
-| 2 | [Local Data Regeneration Paradigm](https://github.com/smartlegionlab/local-data-regeneration-paradigm)                   | [10.5281/zenodo.17264327](https://doi.org/10.5281/zenodo.17264327) | Theoretical Research | Oct 2025 |
-| 3 | [Deterministic Game Engine (Technical Report)](https://github.com/smartlegionlab/deterministic-game-engine-report)       | [10.5281/zenodo.17383447](https://doi.org/10.5281/zenodo.17383447) | Technical Report     | Oct 2025 |
-| 4 | [Position-Candidate-Hypothesis (PCH) Paradigm](https://github.com/smartlegionlab/position-candidate-hypothesis-paradigm) | [10.5281/zenodo.17614888](https://doi.org/10.5281/zenodo.17614888) | Theoretical Research | Nov 2025 |
+| Metric                  | Value   | Metric                    | Value   |
+|-------------------------|---------|---------------------------|---------|
+| **Years Experience**    | 10+     | **Commits**               | 11,000+ |
+| **Projects Delivered**  | 350+    | **Research Publications** | 4       |
+| **Public Repositories** | 65+     | **PyPI Packages**         | 25+     |
+| **Monthly Downloads**   | 15,000+ | **Technical Articles**    | 5+      |
 
-### Research Impact
+---
 
-| Metric                     | Value  |
-|----------------------------|--------|
-| **Research Publications**  | 4      |
-| **Total Zenodo Views**     | 1,000+ |
-| **Total Zenodo Downloads** | 850+   |
-| **Technical Articles**     | 5+     |
+## Career Objectives
 
-### Research Domains
+Seeking challenging opportunities in:
 
-| Domain                       | Focus Area                                            |
-|------------------------------|-------------------------------------------------------|
-| **Computer Security**        | Zero-storage security, pointer-based authentication   |
-| **Information Theory**       | Local data regeneration, synchronous discovery        |
-| **Computational Complexity** | NP-complete problems, structural-statistical analysis |
-| **Deterministic Systems**    | Game engines, procedural generation                   |
+| Area                       | Focus                                                 |
+|----------------------------|-------------------------------------------------------|
+| **Technical Innovation**   | Solving complex problems with elegant solutions       |
+| **Research & Development** | Paradigm development and architectural transformation |
+| **Security Architecture**  | Next-generation security frameworks                   |
+| **Technical Leadership**   | Full-stack architecture and system design             |
+| **System Optimization**    | Performance tuning and legacy modernization           |
 
 ---
 
@@ -93,43 +89,47 @@ and structural-statistical methods for NP-complete problems.
 Software Architect with 10+ years of experience building high-performance web applications, 
 enterprise systems, scalable platforms, ecosystems, cores, Telegram bots, 
 desktop apps, cross-platform apps, CLI applications, and mobile applications. 
-From idea to architecture and complete implementation — delivering robust 
+From idea to architecture and complete implementation - delivering robust 
 solutions that drive business growth and technical excellence.
-
----
-
-## Career Objectives
-
-Seeking challenging opportunities in:
-
-| Area                       | Focus                                                 |
-|----------------------------|-------------------------------------------------------|
-| **Technical Innovation**   | Solving complex problems with elegant solutions       |
-| **Research & Development** | Paradigm development and architectural transformation |
-| **Security Architecture**  | Next-generation security frameworks                   |
-| **Technical Leadership**   | Full-stack architecture and system design             |
-| **System Optimization**    | Performance tuning and legacy modernization           |
-
----
-
-## Quick Stats
-
-| Metric                  | Value   | Metric                    | Value   |
-|-------------------------|---------|---------------------------|---------|
-| **Years Experience**    | 10+     | **Commits**               | 11,000+ |
-| **Projects Delivered**  | 350+    | **Research Publications** | 4       |
-| **Public Repositories** | 65+     | **PyPI Packages**         | 25+     |
-| **Monthly Downloads**   | 15,000+ | **Technical Articles**    | 5+      |
-
-## Research Impact (reminder)
-
-For detailed research publications and academic work, visit my **[Academic Portfolio](https://alexander-suvorov.ru)** or **[ORCID](https://orcid.org/0009-0006-3427-9611)**.
 
 ---
 
 ## Development Environment
 
 **Primary OS**: Arch Linux ❤️
+
+---
+
+## Research Publications
+
+| # | Publication                                                                                                              | DOI                                                                | Type                 | Date     |
+|---|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------|----------|
+| 1 | [Pointer-Based Security Paradigm](https://github.com/smartlegionlab/pointer-based-security-paradigm)                     | [10.5281/zenodo.17204738](https://doi.org/10.5281/zenodo.17204738) | Theoretical Research | Sep 2025 |
+| 2 | [Local Data Regeneration Paradigm](https://github.com/smartlegionlab/local-data-regeneration-paradigm)                   | [10.5281/zenodo.17264327](https://doi.org/10.5281/zenodo.17264327) | Theoretical Research | Oct 2025 |
+| 3 | [Deterministic Game Engine (Technical Report)](https://github.com/smartlegionlab/deterministic-game-engine-report)       | [10.5281/zenodo.17383447](https://doi.org/10.5281/zenodo.17383447) | Technical Report     | Oct 2025 |
+| 4 | [Position-Candidate-Hypothesis (PCH) Paradigm](https://github.com/smartlegionlab/position-candidate-hypothesis-paradigm) | [10.5281/zenodo.17614888](https://doi.org/10.5281/zenodo.17614888) | Theoretical Research | Nov 2025 |
+
+### Research Impact
+
+| Metric                     | Value  |
+|----------------------------|--------|
+| **Research Publications**  | 4      |
+| **Total Zenodo Views**     | 1,000+ |
+| **Total Zenodo Downloads** | 850+   |
+| **Technical Articles**     | 5+     |
+
+### Research Domains
+
+| Domain                       | Focus Area                                            |
+|------------------------------|-------------------------------------------------------|
+| **Computer Security**        | Zero-storage security, pointer-based authentication   |
+| **Information Theory**       | Local data regeneration, synchronous discovery        |
+| **Computational Complexity** | NP-complete problems, structural-statistical analysis |
+| **Deterministic Systems**    | Game engines, procedural generation                   |
+
+## Research Impact (reminder)
+
+For detailed research publications and academic work, visit my **[Academic Portfolio](https://alexander-suvorov.ru)** or **[ORCID](https://orcid.org/0009-0006-3427-9611)**.
 
 ---
 
@@ -258,4 +258,6 @@ For detailed research publications and academic work, visit my **[Academic Portf
 ---
 
 ![GitHub Contribution Snake](https://github.com/smartlegionlab/smartlegionlab/raw/master/images/github-snake.svg)
+
+---
 
