@@ -32,6 +32,29 @@ and structural-statistical methods for NP-complete problems.
 
 ---
 
+## What I Do
+
+| Area                             | What I deliver                                                                          |
+|----------------------------------|-----------------------------------------------------------------------------------------|
+| **🏗️ Architecture**             | Scalable systems, microservices, enterprise platforms from scratch                      |
+| **💻 Web Applications**          | Full‑stack development: Django, FastAPI, ASP.NET Core, REST APIs                        |
+| **🖥️ Desktop Applications**     | Cross‑platform (PyQt5/6, Flet) · Windows (WinForms, WPF)                                |
+| **📱 Mobile Applications**       | Android apps with Kotlin, JVM                                                           |
+| **🖧 CLI Tools**                 | Console utilities, automation scripts, dev tools                                        |
+| **🤖 Bot Development**           | Telegram, VK integration platforms                                                      |
+| **🎮 Game Development**          | Deterministic engines, procedural generation                                            |
+| **⚡ Performance**                | Database tuning, caching, bottlenecks elimination                                       |
+| **👥 Team Leadership**           | Mentoring, code reviews, DevOps processes                                               |
+| **🔬 Paradigm Development**      | Creating groundbreaking paradigms in security, information theory, NP‑complete problems |
+| **🌍 Cross‑Platform Ecosystems** | Python, Go, C#, Kotlin, JS — one code, many platforms                                   |
+| **📚 Research & Innovation**     | 4 DOI publications, theoretical frameworks, experimental validation                     |
+
+> **I take a project from idea → architecture → implementation → production.**
+
+> **I take a project from idea → architecture → implementation → production.**
+
+---
+
 ## Career Objectives
 
 Seeking challenging opportunities in:
@@ -254,6 +277,21 @@ For detailed research publications and academic work, visit my **[Academic Portf
 
 ---
 
+## Key Achievements
+
+| Achievement                       | Impact                                                      |
+|-----------------------------------|-------------------------------------------------------------|
+| 📈 **Revenue growth**             | Systems that generated measurable profit increases          |
+| ⚡ **Operational efficiency**      | 80% manual work reduction through automation                |
+| 🔄 **System transformation**      | Legacy → modern platforms supporting 500k+ users            |
+| 💰 **Cost optimization**          | Reduced infrastructure and maintenance costs                |
+| 📦 **25+ PyPI packages**          | 15,000+ monthly downloads                                   |
+| 📚 **4 research publications**    | 1,000+ Zenodo views, 850+ downloads                         |
+| 💻 **65+ open source repos**      | 11,000+ commits                                             |
+| 🎓 **4 groundbreaking paradigms** | Computer security, information theory, NP‑complete problems |
+
+---
+
 ## Connect & Collaborate
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-smartlegionlab.ru-blue?style=for-the-badge&logo=google-chrome)](https://smartlegionlab.ru)
@@ -286,6 +324,3 @@ For detailed research publications and academic work, visit my **[Academic Portf
 ---
 
 ![GitHub Contribution Snake](https://github.com/smartlegionlab/smartlegionlab/raw/master/images/github-snake.svg)
-
----
-
