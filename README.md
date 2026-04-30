@@ -102,12 +102,21 @@ solutions that drive business growth and technical excellence.
 
 ## Research Publications
 
-| # | Publication                                                                                                              | DOI                                                                | Type                 | Date     |
-|---|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------|----------|
-| 1 | [Pointer-Based Security Paradigm](https://github.com/smartlegionlab/pointer-based-security-paradigm)                     | [10.5281/zenodo.17204738](https://doi.org/10.5281/zenodo.17204738) | Theoretical Research | Sep 2025 |
-| 2 | [Local Data Regeneration Paradigm](https://github.com/smartlegionlab/local-data-regeneration-paradigm)                   | [10.5281/zenodo.17264327](https://doi.org/10.5281/zenodo.17264327) | Theoretical Research | Oct 2025 |
-| 3 | [Deterministic Game Engine (Technical Report)](https://github.com/smartlegionlab/deterministic-game-engine-report)       | [10.5281/zenodo.17383447](https://doi.org/10.5281/zenodo.17383447) | Technical Report     | Oct 2025 |
-| 4 | [Position-Candidate-Hypothesis (PCH) Paradigm](https://github.com/smartlegionlab/position-candidate-hypothesis-paradigm) | [10.5281/zenodo.17614888](https://doi.org/10.5281/zenodo.17614888) | Theoretical Research | Nov 2025 |
+| # | Publication                                      | Core Concept                                                            | Key Transformations                                                                                                                                              | DOI                                                                |
+|---|--------------------------------------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| 1 | **Pointer-Based Security Paradigm**              | Architectural shift from data protection to data non-existence          | • Data Transmission → Synchronous Discovery<br>• Secret Storage → Deterministic Regeneration<br>• Attack Surface Protection → Architectural Elimination          | [10.5281/zenodo.17204738](https://doi.org/10.5281/zenodo.17204738) |
+| 2 | **Local Data Regeneration Paradigm**             | Ontological shift from data transmission to synchronous state discovery | • Data as Transferable Object → Data as System State<br>• Data Transmission → Synchronous Local Regeneration<br>• Information Transfer → Pointer Synchronization | [10.5281/zenodo.17264327](https://doi.org/10.5281/zenodo.17264327) |
+| 3 | **Deterministic Game Engine** (Technical Report) | Practical implementation validating theoretical paradigms               | • World generation: 2.8M elements/second<br>• State access: O(1) constant-time<br>• Entity simulation: Linear O(n) scaling                                       | [10.5281/zenodo.17383447](https://doi.org/10.5281/zenodo.17383447) |
+| 4 | **Position-Candidate-Hypothesis (PCH) Paradigm** | Structural-statistical approach for NP-complete problems                | • Search → Structure<br>• Sequential → Parallel<br>• Deterministic → Statistical<br>• Black-box → Interpretable                                                  | [10.5281/zenodo.17614888](https://doi.org/10.5281/zenodo.17614888) |
+
+### Methodology (PCH)
+*n hypotheses, n positions, n candidates — complete problem coverage through structural decomposition*
+
+### Performance Highlights (Deterministic Game Engine)
+- **World Generation:** 2.8 million elements/second throughput
+- **State Access:** O(1) constant-time across all positions
+- **Entity Simulation:** Linear O(n) scaling characteristics
+- **Verification:** Cryptographic operation verification capabilities
 
 ### Research Impact
 
@@ -126,6 +135,17 @@ solutions that drive business growth and technical excellence.
 | **Information Theory**       | Local data regeneration, synchronous discovery        |
 | **Computational Complexity** | NP-complete problems, structural-statistical analysis |
 | **Deterministic Systems**    | Game engines, procedural generation                   |
+
+### Featured Paradigms
+
+| Paradigm                         | Core Idea                                                                                      | Practical Ecosystem                                                                                   |
+|----------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| **🔐 Pointer-Based Security**    | *"Security through data non-existence"* — eliminate vulnerable data instead of protecting it   | Cross-platform password management ecosystem: Python, Go, C#, Kotlin, JS + CLI, Desktop, Web, Android |
+| **📖 Local Data Regeneration**   | *"Communication as pointer synchronization"* — regenerate data locally rather than transmit it | Deterministic infinite generators: Babylon Library (text) + Babylonian Image Library + SmartPassLib   |
+| **🧩 PCH Paradigm**              | *"Structural decomposition of NP-complete problems"* — n hypotheses, n positions, n candidates | TSP solving ecosystem: exact solvers (Go/Python), heuristic solver, benchmark infrastructure          |
+| **🎮 Deterministic Game Engine** | *"Experimental validation"* — 2.8M elements/second, O(1) access                                | Technical report with Zenodo DOI + paradigm integration validation                                    |
+
+> *"We don't create information—we discover mathematical truths that have always existed."*
 
 ## Research Impact (reminder)
 
@@ -149,24 +169,24 @@ For detailed research publications and academic work, visit my **[Academic Portf
 
 **CLI Applications:**
 
-| Language | Manager                                                                        | Generator                                                                          |
-|----------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| Python   | [CLI PassMan](https://github.com/smartlegionlab/clipassman)                    | [CLI PassGen](https://github.com/smartlegionlab/clipassgen)                        |
-| C#       | [CLI Manager](https://github.com/smartlegionlab/SmartPasswordManagerCsharpCli) | [CLI Generator](https://github.com/smartlegionlab/SmartPasswordGeneratorCsharpCli) |
+| Language | Manager                                                                                       | Generator                                                                                         |
+|----------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Python   | [CLI Smart Password Manager](https://github.com/smartlegionlab/clipassman)                    | [CLI Smart Password Generator](https://github.com/smartlegionlab/clipassgen)                      |
+| C#       | [CLI Smart Password Manager](https://github.com/smartlegionlab/SmartPasswordManagerCsharpCli) | [CLI Smart Password Generator](https://github.com/smartlegionlab/SmartPasswordGeneratorCsharpCli) |
 
 **Desktop Applications:**
 
-| Language | Repository                                                                             |
-|----------|----------------------------------------------------------------------------------------|
-| Python   | [Desktop Manager](https://github.com/smartlegionlab/smart-password-manager-desktop)    |
-| C#       | [Desktop Manager](https://github.com/smartlegionlab/SmartPasswordManagerCsharpDesktop) |
+| Language | Repository                                                                                            |
+|----------|-------------------------------------------------------------------------------------------------------|
+| Python   | [Desktop Smart Password Manager](https://github.com/smartlegionlab/smart-password-manager-desktop)    |
+| C#       | [Desktop Smart Password Manager](https://github.com/smartlegionlab/SmartPasswordManagerCsharpDesktop) |
 
 **Other:**
 
-| Platform | Repository                                                                          |
-|----------|-------------------------------------------------------------------------------------|
-| Web      | [Web Manager](https://github.com/smartlegionlab/smart-password-manager-web)         |
-| Android  | [Android Manager](https://github.com/smartlegionlab/smart-password-manager-android) |
+| Platform | Repository                                                                                        |
+|----------|---------------------------------------------------------------------------------------------------|
+| Web      | [Web Smart Password Manager](https://github.com/smartlegionlab/smart-password-manager-web)        |
+| Android  | [Mobile Smart Password Manager](https://github.com/smartlegionlab/smart-password-manager-android) |
 
 **Related Research:**
 
@@ -223,6 +243,14 @@ For detailed research publications and academic work, visit my **[Academic Portf
 | [Local Data Regeneration Paradigm](https://github.com/smartlegionlab/local-data-regeneration-paradigm)             | Theoretical Research | Published |
 | [Deterministic Game Engine (Technical Report)](https://github.com/smartlegionlab/deterministic-game-engine-report) | Technical Report     | Published |
 | [Position-Candidate-Hypothesis Paradigm](https://github.com/smartlegionlab/position-candidate-hypothesis-paradigm) | Theoretical Research | Published |
+
+---
+
+## Local Data Regeneration Paradigm Ecosystem
+
+- [**Local Data Regeneration Paradigm**](https://github.com/smartlegionlab/local-data-regeneration-paradigm) - Ontological Shift from Data Transmission to Synchronous State Discovery.
+- [**Smart Babylon Library**](https://github.com/smartlegionlab/smart-babylon-library) - A deterministic infinite library generator inspired by Borges' "The Library of Babel". Generate unique, deterministic books and pages based on coordinate systems without storing any data.
+- [**Babylonian Image Library**](https://github.com/smartlegionlab/babylonian-image-library) - A deterministic infinite image library generator inspired by Borges' 'The Library of Babel'. Generate unique, deterministic images based on coordinate systems without storing image data.
 
 ---
 
