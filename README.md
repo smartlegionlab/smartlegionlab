@@ -1,6 +1,6 @@
 # Alexander Suvorov
 
-**Software Architect | Independent Researcher | Paradigm Author**
+**Software Architect | Independent Researcher | Paradigms Author**
 
 ---
 
