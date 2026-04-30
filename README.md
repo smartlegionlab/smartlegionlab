@@ -51,8 +51,6 @@ and structural-statistical methods for NP-complete problems.
 
 > **I take a project from idea → architecture → implementation → production.**
 
-> **I take a project from idea → architecture → implementation → production.**
-
 ---
 
 ## Career Objectives
