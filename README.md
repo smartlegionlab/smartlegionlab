@@ -112,16 +112,18 @@ Seeking challenging opportunities in:
 
 ---
 
-## Open Source Impact
+## Quick Stats
 
-| Metric                    | Count   |
-|---------------------------|---------|
-| **Public Repositories**   | 65+     |
-| **PyPI Packages**         | 25+     |
-| **Monthly Downloads**     | 15,000+ |
-| **Research Publications** | 4       |
-| **Technical Articles**    | 5+      |
-| **Commits**               | 11,000+ |
+| Metric                  | Value   | Metric                    | Value   |
+|-------------------------|---------|---------------------------|---------|
+| **Years Experience**    | 10+     | **Commits**               | 11,000+ |
+| **Projects Delivered**  | 350+    | **Research Publications** | 4       |
+| **Public Repositories** | 65+     | **PyPI Packages**         | 25+     |
+| **Monthly Downloads**   | 15,000+ | **Technical Articles**    | 5+      |
+
+## Research Impact (reminder)
+
+For detailed research publications and academic work, visit my **[Academic Portfolio](https://alexander-suvorov.ru)** or **[ORCID](https://orcid.org/0009-0006-3427-9611)**.
 
 ---
 
@@ -240,6 +242,10 @@ Seeking challenging opportunities in:
 **Availability**: Open to consulting, development, research collaborations  
 **Location**: Remote / Worldwide  
 **Response Time**: Typically within 24 hours
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartlegionlab&layout=compact&theme=dark&hide=jupyter%20notebook,html,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
