@@ -10,8 +10,7 @@ and structural-statistical methods for NP-complete problems.
 
 ---
 
-[![Technical Portfolio](https://img.shields.io/badge/🌐_Technical_Portfolio-smartlegionlab.ru-blue)](https://smartlegionlab.ru)
-[![Academic Portfolio](https://img.shields.io/badge/🔬_Academic_Portfolio-alexander--suvorov.ru-green)](https://alexander-suvorov.ru)
+[![Technical Portfolio](https://img.shields.io/badge/🌐_Portfolio-smartlegionlab.ru-blue)](https://smartlegionlab.ru)
 [![Email](https://img.shields.io/badge/📧_Contact_Me-smartlegionlab@gmail.com-red)](mailto:smartlegionlab@gmail.com)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-@smartlegionlab-black)](https://github.com/smartlegionlab)
 [![ORCID](https://img.shields.io/badge/📚_ORCID-0009--0006--3427--9611-brightgreen)](https://orcid.org/0009-0006-3427-9611)
@@ -170,7 +169,7 @@ solutions that drive business growth and technical excellence.
 
 ## Research Impact (reminder)
 
-For detailed research publications and academic work, visit my **[Academic Portfolio](https://alexander-suvorov.ru)** or **[ORCID](https://orcid.org/0009-0006-3427-9611)**.
+For detailed research publications and academic work, visit my **[Portfolio](https://smartlegionlab.ru)** or **[ORCID](https://orcid.org/0009-0006-3427-9611)**.
 
 ---
 
@@ -293,7 +292,6 @@ For detailed research publications and academic work, visit my **[Academic Portf
 ## Connect & Collaborate
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-smartlegionlab.ru-blue?style=for-the-badge&logo=google-chrome)](https://smartlegionlab.ru)
-[![Research](https://img.shields.io/badge/🔬_Research-alexander--suvorov.ru-green?style=for-the-badge&logo=googlescholar)](https://alexander-suvorov.ru)
 [![Email](https://img.shields.io/badge/📧_Email-smartlegionlab@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:smartlegionlab@gmail.com)
 [![ORCID](https://img.shields.io/badge/📚_ORCID-0009--0006--3427--9611-lightgreen?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0006-3427-9611)
 [![Zenodo](https://img.shields.io/badge/🏛️_Zenodo-Research_Profile-orange?style=for-the-badge&logo=zenodo)](https://zenodo.org/records/17204738)
