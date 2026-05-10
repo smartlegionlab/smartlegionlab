@@ -5,7 +5,7 @@
 ---
 
 I'm a Software Architect, developer, and independent researcher. 
-Author of four groundbreaking paradigms in computer security, information theory, deterministic systems, 
+Author of three paradigms in computer security, information theory, deterministic systems, 
 and structural-statistical methods for NP-complete problems.
 
 ---
