@@ -10,7 +10,8 @@ and structural-statistical methods for NP-complete problems.
 
 ---
 
-[![Technical Portfolio](https://img.shields.io/badge/🌐_Portfolio-smartlegionlab.ru-blue)](https://smartlegionlab.ru)
+[![Website](https://img.shields.io/badge/🌐_Website-smartlegionlab.ru-blue)](https://smartlegionlab.ru)
+[![Portfolio](https://img.shields.io/badge/🌐_Website-alexander-suvorov.ru-blue)](https://alexander-suvorov.ru)
 [![Email](https://img.shields.io/badge/📧_Contact_Me-smartlegionlab@gmail.com-red)](mailto:smartlegionlab@gmail.com)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-@smartlegionlab-black)](https://github.com/smartlegionlab)
 [![ORCID](https://img.shields.io/badge/📚_ORCID-0009--0006--3427--9611-brightgreen)](https://orcid.org/0009-0006-3427-9611)
