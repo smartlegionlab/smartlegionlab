@@ -125,14 +125,6 @@ I am an independent researcher with 4 published works in computer security, info
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartlegionlab&layout=compact&theme=dark&hide=jupyter%20notebook,html,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=smartlegionlab&theme=react-dark&hide_border=true&custom_title=My%20activity&area=true)
-
----
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=smartlegionlab&theme=dark&card_width=1000)](https://git.io/streak-stats)
 
 ---
