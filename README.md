@@ -23,21 +23,24 @@ I am an independent researcher with 4 published paradigms in computer security, 
 | **Years Experience**    | 10+   | **Commits**               | 11,000+ |
 | **Public Repositories** | 70+   | **Research Publications** | 4+      |
 | **PyPI Packages**       | 25+   | **Monthly Downloads**     | 15,000+ |
+| **Technical Articles**  | 5+    |                           |         |
 
 ---
 
 ## What I Build
 
-| Area             | What I deliver                                                                                  |
-|------------------|-------------------------------------------------------------------------------------------------|
-| **Architecture** | Scalable systems, cross-platform ecosystems, microservices                                      |
-| **Ecosystems**   | Complete cross-platform ecosystems — one logic, multiple languages, applications and interfaces |
-| **Libraries**    | Cryptographic cores, CLI frameworks, repository managers                                        |
-| **Desktop Apps** | PyQt5/6, Flet, WinForms, WPF                                                                    |
-| **Mobile Apps**  | Android (Kotlin)                                                                                |
-| **Web Apps**     | Django, FastAPI, REST APIs                                                                      |
-| **CLI Tools**    | Console utilities, automation                                                                   |
-| **Research**     | 4 paradigms with DOI                                                                            |
+| Area                     | What I deliver                                                                                  |
+|--------------------------|-------------------------------------------------------------------------------------------------|
+| **Architecture**         | Scalable systems, cross-platform ecosystems, microservices                                      |
+| **Ecosystems**           | Complete cross-platform ecosystems — one logic, multiple languages, applications and interfaces |
+| **Libraries**            | Cryptographic cores, CLI frameworks, repository managers                                        |
+| **Desktop Applications** | Cross-platform (PyQt5/6, Flet) · Windows (WinForms, WPF)                                        |
+| **Mobile Applications**  | Android apps with Kotlin, JVM                                                                   |
+| **Web Applications**     | Full‑stack development: Django, FastAPI, REST APIs                                              |
+| **CLI Tools**            | Console utilities, automation scripts, dev tools                                                |
+| **Bot Development**      | Telegram, VK integration platforms                                                              |
+| **Game Development**     | Deterministic engines, procedural generation                                                    |
+| **Research**             | 4 paradigms with DOI, theoretical frameworks, experimental validation                           |
 
 **One logic across 5 languages** — Python, C#, Kotlin, Go, JavaScript.
 
