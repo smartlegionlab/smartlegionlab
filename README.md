@@ -5,7 +5,7 @@
 ---
 
 **10+ years** of building cross-platform ecosystems.  
-**6 ecosystems**, **3 paradigms**, **80+ projects**, **35+ libraries**.
+**6 ecosystems**, **3 paradigms**, **80+ projects**, **35+ libraries**,  **26+ applications**.
 
 ---
 
@@ -23,11 +23,13 @@ I am an independent researcher with 4 published works in computer security, info
 
 ## Quick Stats
 
-| Metric               | Value | Metric                    | Value   |
-|----------------------|-------|---------------------------|---------|
-| **Years Experience** | 10+   | **Commits**               | 11,000+ |
-| **Public Projects**  | 80+   | **Research Publications** | 4+      |
-| **Libraries**        | 35+   | **Monthly Downloads**     | 15,000+ |
+| Metric               | Value  | Metric                       | Value   |
+|----------------------|--------|------------------------------|---------|
+| **Years Experience** | 10+    | **Commits**                  | 11,000+ |
+| **Public Projects**  | 80+    | **Research Publications**    | 4+      |
+| **Libraries**        | 35+    | **Monthly Downloads (PyPI)** | 15,000+ |
+| **Applications**     | 26+    | **Zenodo Views**             | 1,000+  |
+| **Zenodo Downloads** | 1,000+ |
 
 ---
 
@@ -99,8 +101,9 @@ I am an independent researcher with 4 published works in computer security, info
 | ⚡ **Operational efficiency**      | 80% manual work reduction through automation       |
 | 🔄 **System transformation**      | Legacy → modern platforms supporting 500k+ users   |
 | 💰 **Cost optimization**          | Reduced infrastructure and maintenance costs       |
+| 📱 **26+ applications**           | Desktop, Web, Mobile, CLI, and Telegram Bots       |
 | 📦 **35+ libraries**              | 15,000+ monthly downloads                          |
-| 📚 **4 research publications**    | 1,000+ Zenodo views, 850+ downloads                |
+| 📚 **4 research publications**    | 1,000+ Zenodo views, 1000+ downloads               |
 | 💻 **80+ projects**               | 11,000+ commits                                    |
 | 🎓 **3 groundbreaking paradigms** | Computer security, information theory, NP‑complete |
 
