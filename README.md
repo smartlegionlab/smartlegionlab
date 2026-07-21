@@ -21,7 +21,7 @@ I am an independent researcher with 4 published paradigms in computer security, 
 | Metric                  | Value | Metric                    | Value   |
 |-------------------------|-------|---------------------------|---------|
 | **Years Experience**    | 10+   | **Commits**               | 11,000+ |
-| **Public Repositories** | 70+   | **Research Publications** | 4+      |
+| **Public Repositories** | 80+   | **Research Publications** | 4+      |
 | **PyPI Packages**       | 25+   | **Monthly Downloads**     | 15,000+ |
 | **Technical Articles**  | 5+    |                           |         |
 
@@ -177,52 +177,130 @@ I am an independent researcher with 4 published paradigms in computer security, 
 
 ### Repository Management Ecosystem
 
-| Component | Repository                                                                                       |
+| Component | Repository |
 |-----------|--------------------------------------------------------------------------------------------------|
-| Core      | [Smart Repository Manager Core](https://github.com/smartlegionlab/smart-repository-manager-core) |
-| GUI       | [Smart Repository Manager GUI](https://github.com/smartlegionlab/smart-repository-manager-gui)   |
-| CLI       | [Smart Repository Manager CLI](https://github.com/smartlegionlab/smart-repository-manager-cli)   |
+| Core | [Smart Repository Manager Core](https://github.com/smartlegionlab/smart-repository-manager-core) |
+| GUI | [Smart Repository Manager GUI](https://github.com/smartlegionlab/smart-repository-manager-gui) |
+| CLI | [Smart Repository Manager CLI](https://github.com/smartlegionlab/smart-repository-manager-cli) |
+
+**Additional Tools:**
+
+| Tool                   | Repository                                                                               |
+|------------------------|------------------------------------------------------------------------------------------|
+| GitHub Repos Backup    | [github-repos-backup-tools](https://github.com/smartlegionlab/github-repos-backup-tools) |
+| GitHub SSH Key Manager | [github-ssh-key](https://github.com/smartlegionlab/github-ssh-key)                       |
+
+---
+
+### Forgejo Sync Ecosystem
+
+| Component | Repository                                                                               |
+|-----------|------------------------------------------------------------------------------------------|
+| Core      | [forgejo-sync-manager-core](https://github.com/smartlegionlab/forgejo-sync-manager-core) |
+| GUI       | [forgejo-sync-manager-gui](https://github.com/smartlegionlab/forgejo-sync-manager-gui)   |
+| CLI       | [forgejo-sync-manager-cli](https://github.com/smartlegionlab/forgejo-sync-manager-cli)   |
 
 ---
 
 ### Deterministic Ecosystem
 
-- [**Local Data Regeneration Paradigm**](https://github.com/smartlegionlab/local-data-regeneration-paradigm) — Ontological Shift from Data Transmission to Synchronous State Discovery.
-- [**Smart Babylon Library**](https://github.com/smartlegionlab/smart-babylon-library) — A deterministic infinite library generator inspired by Borges' "The Library of Babel". Generate unique, deterministic books and pages based on coordinate systems without storing any data.
-- [**Babylonian Image Library**](https://github.com/smartlegionlab/babylonian-image-library) — A deterministic infinite image library generator inspired by Borges' 'The Library of Babel'. Generate unique, deterministic images based on coordinate systems without storing image data.
+| Project                  | Repository                                                                             |
+|--------------------------|----------------------------------------------------------------------------------------|
+| Smart Babylon Library    | [smart-babylon-library](https://github.com/smartlegionlab/smart-babylon-library)       |
+| Babylonian Image Library | [babylonian-image-library](https://github.com/smartlegionlab/babylonian-image-library) |
+
+---
+
+### Dynamic Security Ecosystem
+
+| Project                   | Repository                                                                               |
+|---------------------------|------------------------------------------------------------------------------------------|
+| Smart Dynamic Path        | [smart-dynamic-path](https://github.com/smartlegionlab/smart-dynamic-path)               |
+| Django Smart Dynamic Path | [django-smart-dynamic-path](https://github.com/smartlegionlab/django-smart-dynamic-path) |
 
 ---
 
 ## Applications
 
-| Application                      | Type                     | Tech            | Description                                                      |
-|----------------------------------|--------------------------|-----------------|------------------------------------------------------------------|
-| **Smart Social Network**         | Web                      | Django, Python  | Full-featured Django social platform with real-time messaging    |
-| **Smart Password Manager**       | Desktop (Cross-platform) | Python, PyQt5   | Deterministic password manager with zero storage                 |
-| **Smart Password Manager**       | Desktop (Windows)        | C#, .NET        | Windows desktop manager for deterministic passwords              |
-| **Smart Password Manager**       | Web                      | JavaScript      | Browser-based password manager, secrets never leave your browser |
-| **Smart Password Manager**       | Android                  | Kotlin          | Offline password manager with deterministic generation           |
-| **Smart Repository Manager**     | Desktop GUI              | Python          | Visual GitHub repository management and synchronization          |
-| **Smart Repository Manager**     | CLI                      | Python          | Command-line GitHub repo management with SSH support             |
-| **Smart Project Manager**        | Desktop                  | Python, PyQt5   | Hierarchical project and task management with progress tracking  |
-| **Smart File Duplicate Manager** | Desktop                  | Python, PyQt6   | Find and manage duplicate files with visual interface            |
-| **Smart 2FA Manager**            | Desktop                  | Python, PyQt5   | Offline TOTP manager for Linux with encrypted storage            |
-| **Smart 2FA Manager**            | Android                  | Kotlin          | Offline TOTP manager for Android with local encryption           |
-| **Smart 2FA Manager**            | CLI                      | Python          | Lightweight TOTP manager from the command line                   |
-| **Smart 2FA Manager**            | Bash                     | Bash            | Minimal TOTP manager written in pure Bash                        |
-| **Smart Task Manager**           | Desktop                  | Python, PyQt5   | Task management with priorities and automatic persistence        |
-| **Forgejo Sync Manager**         | Desktop GUI              | Python          | Batch synchronization of Forgejo repositories                    |
-| **Forgejo Sync Manager**         | CLI                      | Python          | Command-line Forgejo repository sync tool                        |
-| **Smart Password Generator**     | CLI                      | Python          | Deterministic password generator from secret phrases             |
-| **Smart Password Manager**       | CLI                      | Python          | Terminal-based password manager with zero storage                |
-| **Smart Password Generator**     | CLI                      | C#              | Cross-platform deterministic password generator in C#            |
-| **Smart Password Manager**       | CLI                      | C#              | Terminal-based password manager in C#                            |
-| **GitHub Repos Backup Tools**    | CLI                      | Python          | Automated backup of GitHub repositories and GISTs                |
-| **GitHub SSH Key Manager**       | CLI                      | Python          | Manage GitHub SSH keys from the command line                     |
-| **TODO App**                     | CLI                      | Python          | Simple console task management application                       |
-| **Smart Pip Collector**          | CLI                      | Python          | Collect and archive pip dependencies for offline install         |
-| **Personal Telegram Bot**        | Bot                      | Python, aiogram | Universal asynchronous Telegram bot with advanced features       |
-| **Todo App Telegram Bot**        | Bot                      | Python          | Task management via Telegram bot interface                       |
+| Application                      | Type                     | Tech            | Repository                                                                                               |
+|----------------------------------|--------------------------|-----------------|----------------------------------------------------------------------------------------------------------|
+| **Smart Social Network**         | Web                      | Django, Python  | [smart-social-network](https://github.com/smartlegionlab/smart-social-network)                           |
+| **Smart Password Manager**       | Desktop (Cross-platform) | Python, PyQt5   | [smart-password-manager-desktop](https://github.com/smartlegionlab/smart-password-manager-desktop)       |
+| **Smart Password Manager**       | Desktop (Windows)        | C#, .NET        | [SmartPasswordManagerCsharpDesktop](https://github.com/smartlegionlab/SmartPasswordManagerCsharpDesktop) |
+| **Smart Password Manager**       | Web                      | JavaScript      | [smart-password-manager-web](https://github.com/smartlegionlab/smart-password-manager-web)               |
+| **Smart Password Manager**       | Android                  | Kotlin          | [smart-password-manager-android](https://github.com/smartlegionlab/smart-password-manager-android)       |
+| **Smart Repository Manager**     | Desktop GUI              | Python          | [smart-repository-manager-gui](https://github.com/smartlegionlab/smart-repository-manager-gui)           |
+| **Smart Repository Manager**     | CLI                      | Python          | [smart-repository-manager-cli](https://github.com/smartlegionlab/smart-repository-manager-cli)           |
+| **Smart Project Manager**        | Desktop                  | Python, PyQt5   | [smart-project-manager](https://github.com/smartlegionlab/smart-project-manager)                         |
+| **Smart File Duplicate Manager** | Desktop                  | Python, PyQt6   | [smart-file-duplicate-manager](https://github.com/smartlegionlab/smart-file-duplicate-manager)           |
+| **Smart 2FA Manager**            | Desktop                  | Python, PyQt5   | [smart-2fa-manager-desktop](https://github.com/smartlegionlab/smart-2fa-manager-desktop)                 |
+| **Smart 2FA Manager**            | Android                  | Kotlin          | [smart-2fa-manager-android](https://github.com/smartlegionlab/smart-2fa-manager-android)                 |
+| **Smart 2FA Manager**            | CLI                      | Python          | [smart-2fa-manager-cli](https://github.com/smartlegionlab/smart-2fa-manager-cli)                         |
+| **Smart 2FA Manager**            | Bash                     | Bash            | [smart-2fa-manager-bash](https://github.com/smartlegionlab/smart-2fa-manager-bash)                       |
+| **Smart Task Manager**           | Desktop                  | Python, PyQt5   | [smart-task-manager](https://github.com/smartlegionlab/smart-task-manager)                               |
+| **Forgejo Sync Manager**         | Desktop GUI              | Python          | [forgejo-sync-manager-gui](https://github.com/smartlegionlab/forgejo-sync-manager-gui)                   |
+| **Forgejo Sync Manager**         | CLI                      | Python          | [forgejo-sync-manager-cli](https://github.com/smartlegionlab/forgejo-sync-manager-cli)                   |
+| **Smart Password Generator**     | CLI                      | Python          | [clipassgen](https://github.com/smartlegionlab/clipassgen)                                               |
+| **Smart Password Manager**       | CLI                      | Python          | [clipassman](https://github.com/smartlegionlab/clipassman)                                               |
+| **Smart Password Generator**     | CLI                      | C#              | [SmartPasswordGeneratorCsharpCli](https://github.com/smartlegionlab/SmartPasswordGeneratorCsharpCli)     |
+| **Smart Password Manager**       | CLI                      | C#              | [SmartPasswordManagerCsharpCli](https://github.com/smartlegionlab/SmartPasswordManagerCsharpCli)         |
+| **GitHub Repos Backup Tools**    | CLI                      | Python          | [github-repos-backup-tools](https://github.com/smartlegionlab/github-repos-backup-tools)                 |
+| **GitHub SSH Key Manager**       | CLI                      | Python          | [github-ssh-key](https://github.com/smartlegionlab/github-ssh-key)                                       |
+| **TODO App**                     | CLI                      | Python          | [todo-app-cli](https://github.com/smartlegionlab/todo-app-cli)                                           |
+| **Smart Pip Collector**          | CLI                      | Python          | [smart-pip-collector](https://github.com/smartlegionlab/smart-pip-collector)                             |
+| **Personal Telegram Bot**        | Bot                      | Python, aiogram | [personal-telegram-bot](https://github.com/smartlegionlab/personal-telegram-bot)                         |
+| **Todo App Telegram Bot**        | Bot                      | Python          | [todo-app-tg-bot](https://github.com/smartlegionlab/todo-app-tg-bot)                                     |
+
+---
+
+## Core Libraries & Utilities
+
+| Library                                                                                          | Language   | Description                                                      | PyPI                                                        |
+|--------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------|-------------------------------------------------------------|
+| [smartpasslib](https://github.com/smartlegionlab/smartpasslib)                                   | Python     | Cryptographic password generation and management without storage | [✓](https://pypi.org/project/smartpasslib)                  |
+| [smartpasslib-js](https://github.com/smartlegionlab/smartpasslib-js)                             | JavaScript | Smart Passwords Library for JavaScript                           | —                                                           |
+| [smartpasslib-kotlin](https://github.com/smartlegionlab/smartpasslib-kotlin)                     | Kotlin     | Smart Passwords Library for Kotlin                               | —                                                           |
+| [smartpasslib-go](https://github.com/smartlegionlab/smartpasslib-go)                             | Go         | Smart Passwords Library for Go                                   | —                                                           |
+| [smartpasslib-csharp](https://github.com/smartlegionlab/smartpasslib-csharp)                     | C#         | Smart Passwords Library for C#                                   | —                                                           |
+| [clipassman](https://github.com/smartlegionlab/clipassman)                                       | Python     | Console Smart Password Manager                                   | [✓](https://pypi.org/project/clipassman/)                   |
+| [clipassgen](https://github.com/smartlegionlab/clipassgen)                                       | Python     | Console Smart Password Generator                                 | [✓](https://pypi.org/project/clipassgen/)                   |
+| [smart-dynamic-path](https://github.com/smartlegionlab/smart-dynamic-path)                       | Python     | Deterministic time-based path generation                         | [✓](https://pypi.org/project/smart-dynamic-path/)           |
+| [django-smart-dynamic-path](https://github.com/smartlegionlab/django-smart-dynamic-path)         | Python     | Dynamic secret admin URL for Django                              | [✓](https://pypi.org/project/django-smart-dynamic-path/)    |
+| [smart-tsp-solver](https://github.com/smartlegionlab/smart-tsp-solver)                           | Python     | High-performance TSP solver with heuristics                      | [✓](https://pypi.org/project/smart-tsp-solver/)             |
+| [smart-tsp-benchmark](https://github.com/smartlegionlab/smart-tsp-benchmark)                     | Python     | Professional TSP algorithm testing infrastructure                | [✓](https://pypi.org/project/smart-tsp-benchmark/)          |
+| [smart-tsp-oracle](https://github.com/smartlegionlab/smart-tsp-oracle)                           | Python     | Exact TSP solver with Branch and Bound                           | [✓](https://pypi.org/project/smart-tsp-oracle/)             |
+| [smart-2fa-secure](https://github.com/smartlegionlab/smart-2fa-secure)                           | Python     | Advanced Two-Factor Authentication system                        | [✓](https://pypi.org/project/smart-2fa-secure/)             |
+| [smart-babylon-library](https://github.com/smartlegionlab/smart-babylon-library)                 | Python     | Deterministic infinite library generator                         | [✓](https://pypi.org/project/smart-babylon-library/)        |
+| [babylonian-image-library](https://github.com/smartlegionlab/babylonian-image-library)           | Python     | Deterministic infinite image generator                           | [✓](https://pypi.org/project/babylonian-image-library/)     |
+| [smart-repository-manager-core](https://github.com/smartlegionlab/smart-repository-manager-core) | Python     | Git repository management library                                | [✓](https://pypi.org/project/smart-repository-manager-core) |
+| [forgejo-sync-manager-core](https://github.com/smartlegionlab/forgejo-sync-manager-core)         | Python     | Forgejo repository synchronization core                          | [✓](https://pypi.org/project/forgejo-sync-manager-core)     |
+| [github-ssh-key](https://github.com/smartlegionlab/github-ssh-key)                               | Python     | GitHub SSH key manager                                           | [✓](https://pypi.org/project/github-ssh-key/)               |
+| [commandex](https://github.com/smartlegionlab/commandex)                                         | Python     | Command creation, storage and execution                          | [✓](https://pypi.org/project/commandex/)                    |
+| [commandpack](https://github.com/smartlegionlab/commandpack)                                     | Python     | Modules for working with command packages                        | [✓](https://pypi.org/project/commandpack/)                  |
+| [climan](https://github.com/smartlegionlab/climan)                                               | Python     | Config and manager for click console utilities                   | [✓](https://pypi.org/project/climan/)                       |
+| [commandman](https://github.com/smartlegionlab/commandman)                                       | Python     | Cross-platform console command manager                           | [✓](https://pypi.org/project/commandman/)                   |
+| [smartcliapp](https://github.com/smartlegionlab/smartcliapp)                                     | Python     | Tools for creating console applications                          | [✓](https://pypi.org/project/smartcliapp/)                  |
+| [smartprinter](https://github.com/smartlegionlab/smartprinter)                                   | Python     | Smart printer for console applications                           | [✓](https://pypi.org/project/smartprinter/)                 |
+| [smartpathlibrary](https://github.com/smartlegionlab/smartpathlibrary)                           | Python     | Cross-platform library for working with paths                    | [✓](https://pypi.org/project/smartpathlibrary/)             |
+| [smartexecutorlib](https://github.com/smartlegionlab/smartexecutorlib)                           | Python     | Command executor library                                         | [✓](https://pypi.org/project/smartexecutorlib/)             |
+| [smarttextdecorator](https://github.com/smartlegionlab/smarttextdecorator)                       | Python     | Smart text decorator library                                     | [✓](https://pypi.org/project/smarttextdecorator)            |
+| [smartrandom](https://github.com/smartlegionlab/smartrandom)                                     | Python     | Cross-platform random data generators                            | [✓](https://pypi.org/project/smartrandom/)                  |
+| [smartauthen](https://github.com/smartlegionlab/smartauthen)                                     | Python     | Smart authentication library                                     | [✓](https://pypi.org/project/smartauthen)                   |
+| [smart-redis-storage](https://github.com/smartlegionlab/smart-redis-storage)                     | Python     | Redis storage manager with CRUD operations                       | [✓](https://pypi.org/project/smart-redis-storage)           |
+| [smart-text-randomizer](https://github.com/smartlegionlab/smart-text-randomizer)                 | Python     | Smart text randomizer                                            | [✓](https://pypi.org/project/smart-text-randomizer)         |
+| [blockchain](https://github.com/smartlegionlab/blockchain)                                       | Python     | Python blockchain implementation                                 | —                                                           |
+| [python-patterns](https://github.com/smartlegionlab/python-patterns)                             | Python     | Collection of design patterns in Python                          | —                                                           |
+| [qr-codes-generator](https://github.com/smartlegionlab/qr-codes-generator)                       | Python     | QR codes generator                                               | —                                                           |
+| [SmartPasswordGenerator](https://github.com/smartlegionlab/SmartPasswordGenerator)               | C#         | Console password generator for Windows                           | —                                                           |
+
+---
+
+## Websites & Portfolios
+
+| Site                  | URL                                                  | Repository                                                                             | Description                                        |
+|-----------------------|------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------|
+| **SmartLegionLab**    | [smartlegionlab.ru](https://smartlegionlab.ru)       | [smartlegionlab.github.io](https://github.com/smartlegionlab/smartlegionlab.github.io) | Technical portfolio with live data from GitHub     |
+| **Alexander Suvorov** | [alexander-suvorov.ru](https://alexander-suvorov.ru) | [alexander-suvorov](https://github.com/smartlegionlab/alexander-suvorov)               | Academic research portfolio with real-time metrics |
 
 ---
 
@@ -236,7 +314,7 @@ I am an independent researcher with 4 published paradigms in computer security, 
 | 💰 **Cost optimization**          | Reduced infrastructure and maintenance costs                |
 | 📦 **25+ PyPI packages**          | 15,000+ monthly downloads                                   |
 | 📚 **4 research publications**    | 1,000+ Zenodo views, 850+ downloads                         |
-| 💻 **70+ open source repos**      | 11,000+ commits                                             |
+| 💻 **80+ open source repos**      | 11,000+ commits                                             |
 | 🎓 **4 groundbreaking paradigms** | Computer security, information theory, NP‑complete problems |
 
 ---
@@ -244,6 +322,7 @@ I am an independent researcher with 4 published paradigms in computer security, 
 ## Connect & Collaborate
 
 [![Website](https://img.shields.io/badge/🌐_Website-smartlegionlab.ru-blue)](https://smartlegionlab.ru)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-alexander--suvorov.ru-blue)](https://alexander-suvorov.ru)
 [![ORCID](https://img.shields.io/badge/📚_ORCID-0009--0006--3427--9611-brightgreen)](https://orcid.org/0009-0006-3427-9611)
 [![Zenodo](https://img.shields.io/badge/🏛️_Zenodo-Research_Profile-orange)](https://zenodo.org/records/17204738)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-@smartlegionlab-black)](https://github.com/smartlegionlab)
