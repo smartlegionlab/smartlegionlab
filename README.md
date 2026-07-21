@@ -5,7 +5,7 @@
 ---
 
 **10+ years** of building cross-platform ecosystems, applications, libraries, and CLI tools - from architecture to production.  
-**6 ecosystems**, **3 paradigms**, **80+ projects**, **35+ libraries**, **26+ applications**.
+**6 ecosystems**, **3 paradigms**, **70+ projects**, **30+ libraries**, **26+ applications**.
 
 ---
 
@@ -26,8 +26,8 @@ I am an independent researcher with 4 published works in computer security, info
 | Metric               | Value  | Metric                       | Value   |
 |----------------------|--------|------------------------------|---------|
 | **Years Experience** | 10+    | **Commits**                  | 11,000+ |
-| **Public Projects**  | 80+    | **Research Publications**    | 4+      |
-| **Libraries**        | 35+    | **Monthly Downloads (PyPI)** | 15,000+ |
+| **Public Projects**  | 70+    | **Research Publications**    | 4+      |
+| **Libraries**        | 30+    | **Monthly Downloads (PyPI)** | 15,000+ |
 | **Applications**     | 26+    | **Zenodo Views**             | 1,000+  |
 | **Zenodo Downloads** | 1,000+ |
 
@@ -39,9 +39,9 @@ I am an independent researcher with 4 published works in computer security, info
 |------------------|----------------------------------------------------------------------------|
 | **Architecture** | Scalable systems, cross-platform ecosystems, microservices                 |
 | **Ecosystems**   | 6 cross-platform ecosystems - one logic, multiple languages and interfaces |
-| **Projects**     | 80+ public projects - from cryptographic libraries to full‑stack platforms |
+| **Projects**     | 70+ public projects - from cryptographic libraries to full‑stack platforms |
 | **Applications** | 26+ apps: Desktop, Web, Mobile, CLI, Telegram Bots                         |
-| **Libraries**    | 35+ libraries: Cryptographic cores, CLI frameworks, repository managers    |
+| **Libraries**    | 30+ libraries: Cryptographic cores, CLI frameworks, repository managers    |
 | **Research**     | 4 publications with DOI and practical implementations                      |
 
 **One logic across 5 languages** - Python, C#, Kotlin, Go, JavaScript.
@@ -102,9 +102,9 @@ I am an independent researcher with 4 published works in computer security, info
 | 🔄 **System transformation**      | Legacy → modern platforms supporting 500k+ users   |
 | 💰 **Cost optimization**          | Reduced infrastructure and maintenance costs       |
 | 📱 **26+ applications**           | Desktop, Web, Mobile, CLI, and Telegram Bots       |
-| 📦 **35+ libraries**              | 15,000+ monthly downloads                          |
+| 📦 **30+ libraries**              | 15,000+ monthly downloads                          |
 | 📚 **4 research publications**    | 1,000+ Zenodo views, 1000+ downloads               |
-| 💻 **80+ projects**               | 11,000+ commits                                    |
+| 💻 **70+ projects**               | 11,000+ commits                                    |
 | 🎓 **3 groundbreaking paradigms** | Computer security, information theory, NP‑complete |
 
 ---
