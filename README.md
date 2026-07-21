@@ -4,8 +4,8 @@
 
 ---
 
-**10+ years** of building cross-platform ecosystems.  
-**6 ecosystems**, **3 paradigms**, **80+ projects**, **35+ libraries**,  **26+ applications**.
+**10+ years** of building cross-platform ecosystems, applications, libraries, and CLI tools - from architecture to production.  
+**6 ecosystems**, **3 paradigms**, **80+ projects**, **35+ libraries**, **26+ applications**.
 
 ---
 
@@ -50,14 +50,14 @@ I am an independent researcher with 4 published works in computer security, info
 
 ## Ecosystems
 
-| Ecosystem                           | Description                                                               | Libraries | Applications |
-|-------------------------------------|---------------------------------------------------------------------------|-----------|--------------|
-| **Smart Passwords Ecosystem**       | Zero-storage deterministic password management - 5 languages, 8 platforms | 5         | 8            |
-| **NP Problem Ecosystem**            | Exact + heuristic TSP solvers (Go + Python)                               | 4         | 1            |
-| **2FA Management Ecosystem**        | Offline TOTP managers - Desktop, Android, CLI, Bash                       | -         | 4            |
-| **Repository Management Ecosystem** | GitHub/Forgejo automation - Core, GUI, CLI                                | 2         | 4            |
-| **Deterministic Ecosystem**         | Infinite generators for text and images (Babylon libraries)               | 2         | -            |
-| **Research Ecosystem**              | 4 publications with DOI and practical implementations                     | -         | 4 pubs       |
+| Ecosystem                           | Description                                                               |
+|-------------------------------------|---------------------------------------------------------------------------|
+| **Smart Passwords Ecosystem**       | Zero-storage deterministic password management - 5 languages, 8 platforms |
+| **NP Problem Ecosystem**            | Exact + heuristic TSP solvers (Go + Python)                               |
+| **2FA Management Ecosystem**        | Offline TOTP managers - Desktop, Android, CLI, Bash                       |
+| **Repository Management Ecosystem** | GitHub/Forgejo automation - Core, GUI, CLI                                |
+| **Deterministic Ecosystem**         | Infinite generators for text and images (Babylon libraries)               |
+| **Research Ecosystem**              | 4 publications with DOI and practical implementations                     |
 
 
 ---
