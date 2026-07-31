@@ -17,8 +17,6 @@ I architect cross-platform ecosystems from the ground up. I build applications a
 
 I am an independent researcher with 4 published works in computer security, information theory, and computational complexity - 3 paradigms and 1 technical report, all with DOI and practical implementations.
 
-> *"We don't create information - we discover mathematical truths that have always existed."*
-
 ---
 
 ## Quick Stats
