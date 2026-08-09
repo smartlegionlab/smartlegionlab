@@ -1,6 +1,6 @@
 # Alexander Suvorov
 
-**Software Architect · Full-Stack Developer · Independent Researcher · Paradigms Author**
+**Computer Science Researcher | Paradigm Creator | Chief Systems Architect & Full-Stack Developer**
 
 ---
 
