@@ -4,7 +4,7 @@
 
 ---
 
-**10+ years** of building cross-platform ecosystems, applications, libraries, and CLI tools - from architecture to production.  
+**15+ years** of building cross-platform ecosystems, applications, libraries, and CLI tools - from architecture to production.  
 **6 ecosystems**, **3 paradigms**, **70+ projects**, **30+ libraries**, **26+ applications**.
 
 ---
@@ -23,7 +23,7 @@ I am an independent researcher with 4 published works in computer security, info
 
 | Metric               | Value  | Metric                       | Value   |
 |----------------------|--------|------------------------------|---------|
-| **Years Experience** | 10+    | **Commits**                  | 11,000+ |
+| **Years Experience** | 15+    | **Commits**                  | 11,000+ |
 | **Public Projects**  | 70+    | **Research Publications**    | 4+      |
 | **Libraries**        | 30+    | **Monthly Downloads (PyPI)** | 15,000+ |
 | **Applications**     | 26+    | **Zenodo Views**             | 1,000+  |
