@@ -49,8 +49,7 @@ I am an independent researcher with 4 published works in computer security, info
 
 I develop novel conceptual frameworks aimed at replacing traditional data transmission and storage vulnerabilities with deterministic logic, structural-statistical analysis, and algorithmic models:
 
-[
-Smart Legion Lab Research Collection](https://zenodo.org/communities/smartlegionlab):
+[Smart Legion Lab Research Collection](https://zenodo.org/communities/smartlegionlab):
 
 | # | Publication | Core Concept | Key Transformations | DOI |
 |---|---|---|---|---|
