@@ -49,6 +49,9 @@ I am an independent researcher with 4 published works in computer security, info
 
 I develop novel conceptual frameworks aimed at replacing traditional data transmission and storage vulnerabilities with deterministic logic, structural-statistical analysis, and algorithmic models:
 
+[
+Smart Legion Lab Research Collection](https://zenodo.org/communities/smartlegionlab):
+
 | # | Publication | Core Concept | Key Transformations | DOI |
 |---|---|---|---|---|
 | 1 | **Pointer-Based Security Paradigm** | Architectural shift from data protection to data non-existence | • Data Transmission → Synchronous Discovery<br>• Secret Storage → Deterministic Regeneration<br>• Attack Surface Protection → Architectural Elimination | [10.5281/zenodo.17204738](https://doi.org/10.5281/zenodo.17204738) |
