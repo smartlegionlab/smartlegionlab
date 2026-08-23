@@ -105,7 +105,7 @@ Infrastructure Scale:
 ---
 ## Connect
 
-[![Website](https://img.shields.io/badge/🌐_Website-smartlegionlab.ru-blue)](https://smartlegionlab.ru)
+[![Website](https://img.shields.io/badge/🌐_Website-smartlegionlab.com-blue)](https://smartlegionlab.com)
 [![ORCID](https://img.shields.io/badge/📚_ORCID-0009--0006--3427--9611-brightgreen)](https://orcid.org/0009-0006-3427-9611)
 [![Zenodo](https://img.shields.io/badge/🏛️_Zenodo-Research_Profile-orange)](https://zenodo.org/records/17204738)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-@smartlegionlab-black)](https://github.com/smartlegionlab)
