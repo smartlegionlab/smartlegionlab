@@ -166,6 +166,7 @@ Engines are self-contained and share a common contract: `prefers-reduced-motion`
 ## 📬 Connect
 
 [![Website](https://img.shields.io/badge/🌐_Website-smartlegionlab.com-blue)](https://smartlegionlab.com)
+[![Website](https://img.shields.io/badge/🌐_Website-smartlegionlab.github.io-blue)](https://smartlegionlab.github.io)
 [![ORCID](https://img.shields.io/badge/📚_ORCID-0009--0006--3427--9611-brightgreen)](https://orcid.org/0009-0006-3427-9611)
 [![Zenodo](https://img.shields.io/badge/🏛️_Zenodo-Research_Profile-orange)](https://zenodo.org/communities/smartlegionlab)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-@smartlegionlab-black)](https://github.com/smartlegionlab)
