@@ -2,7 +2,7 @@
 
 **Computer Science Researcher | Paradigm Creator | Chief Systems Architect & Full-Stack Developer** | Founder [**Smart Legion Lab**](https://smartlegionlab.github.io)
 
-🌐 **[smartlegionlab.com](https://smartlegionlab.com)** | **[smartlegionlab.github.io](https://smartlegionlab.github.io)** — official site: research, ecosystems, applications, libraries.
+🌐 **[smartlegionlab.com](https://smartlegionlab.com)** | **[smartlegionlab.github.io](https://smartlegionlab.github.io)** — official site: research, ecosystems, applications, libraries, projects, articles, team and profiles.
 
 ---
 
