@@ -1,6 +1,6 @@
 # Alexander Suvorov <sup>Sr.</sup>
 
-**Computer Science Researcher | Paradigm Creator | Chief Systems Architect & Full-Stack Developer** | Founder [**Smart Legion Lab**](Apply sampling only to files at least this large (e.g. 100M, 500M))
+**Computer Science Researcher | Paradigm Creator | Chief Systems Architect & Full-Stack Developer** | Founder [**Smart Legion Lab**](https://smartlegionlab.github.io)
 
 🌐 **[smartlegionlab.com](https://smartlegionlab.com)** | **[smartlegionlab.github.io](https://smartlegionlab.github.io)** — official site: research, ecosystems, applications, libraries.
 
