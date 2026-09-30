@@ -98,37 +98,17 @@ I design and maintain **multi-layer software ecosystems** covering decentralized
 
 ## Core Focus Areas
 
-* Systems Architecture
-* Ecosystem Engineering
-* Core and Library Development
-* Cross-Platform Development
-* Web Applications and Services
-* Information Systems and Platforms
-* CRM and Internal Solutions
-* Applied Software Development
-* Utilities and Automation
-* Games and Interactive Applications
-* Paradigm Creation
-* Computer Science Research
-* Deterministic Systems
-* Security and Cryptography
-* Zero-Storage Architecture
-* Passwords and 2FA
-* NP-Hard Optimization
-* Algorithm Design
-* Full-Stack Development
-* CLI and Console Tools
-* Desktop Applications
-* Mobile and Android
-* Bots and Automation
-* Repository Management
-* Open-Source Libraries
-* Cross-Platform Porting
-* Decentralized Architectures
-* Modular Framework Design
-* High-Load and Performance
-* Academic Publishing
-* R&D Leadership
+**Systems & Architecture**
+Systems Architecture · Ecosystem Engineering · Core & Library Development · Cross-Platform Development · Modular Framework Design · Decentralized Architectures
+
+**Applications & Platforms**
+Web Applications & Services · Desktop Applications · Mobile & Android · CLI & Console Tools · Games & Interactive Applications · Bots & Automation
+
+**Security & Research**
+Security & Cryptography · Zero-Storage Architecture · Passwords & 2FA · Deterministic Systems · Paradigm Creation · Computer Science Research · NP-Hard Optimization · Algorithm Design
+
+**Engineering & Delivery**
+Full-Stack Development · Cross-Platform Porting · Repository Management · Open-Source Libraries · High-Load & Performance · CRM & Internal Solutions · Information Systems & Platforms · Applied Software Development · Utilities & Automation · Academic Publishing · R&D Leadership
 
 ---
 
