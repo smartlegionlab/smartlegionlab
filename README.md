@@ -2,11 +2,11 @@
 
 **Chief Systems Architect & Full-Stack Developer · Computer Science Researcher · Paradigm Creator · Founder @SmartLegionLab**
 
-🌐 **[smartlegionlab.com](https://smartlegionlab.com)** | **[smartlegionlab.github.io](https://smartlegionlab.github.io)** — official site: research, ecosystems, applications, libraries, projects, articles, team and profiles.
+🌐 **[smartlegionlab.github.io](https://smartlegionlab.github.io)** | **[smartlegionlab.com](https://smartlegionlab.com)** - official site: research, ecosystems, applications, libraries, projects, articles, team and profiles.
 
 ---
 
-**Over a decade and a half** of architecting and building cross-platform ecosystems, applications, libraries, CLI tools and scientific research — from theoretical concept to industrial deployment.
+**Over a decade and a half** of architecting and building cross-platform ecosystems, applications, libraries, CLI tools and scientific research - from theoretical concept to industrial deployment.
 
 **Systems Architecture · Paradigm Authoring · Ecosystem Engineering · Multi-Language Development · Full Cycle from Research to Production**
 
@@ -14,7 +14,7 @@
 
 ## Who I Am
 
-I am a systems architect and independent researcher. I design and build multi-layer, cross-platform software ecosystems, conduct scientific research and develop applied software — from foundational concepts to fully working systems.
+I am a systems architect and independent researcher. I design and build multi-layer, cross-platform software ecosystems, conduct scientific research and develop applied software - from foundational concepts to fully working systems.
 
 As the founder of **Smart Legion Lab**, I am responsible for all areas of the lab's activity: scientific research, systems architecture, ecosystem design, development and publication of results.
 
@@ -26,14 +26,14 @@ My experience covers public and internal projects, open-source and closed-source
 
 ## What I Do
 
-My work covers the full software lifecycle — from original research and systems architecture to solutions ready for industrial deployment. It includes:
+My work covers the full software lifecycle - from original research and systems architecture to solutions ready for industrial deployment. It includes:
 
 *   **Original Paradigms (R&D):** Conceptual models in computer security, information theory and computational complexity. Every paradigm is backed by a registered DOI, a scientific publication on Zenodo and a working reference implementation. The works have confirmed interest in the academic community.
 *   **Cross-Platform Ecosystems:** Architectural stacks covering cryptography, passwords and 2FA, heuristic optimization, deterministic generators, repository management and research tasks.
 *   **Cores and Libraries:** Platform-agnostic cores, cross-language libraries and internal frameworks implementing the core logic of systems.
-*   **Applications and Services:** User-facing, corporate and internal applications — desktop GUIs, mobile clients, web services, CLI tools and bots.
+*   **Applications and Services:** User-facing, corporate and internal applications - desktop GUIs, mobile clients, web services, CLI tools and bots.
 *   **Information Systems and Platforms:** CRM systems, internal platforms, business process automation tools and corporate software.
-*   **Applied Projects and Utilities:** Tools for everyday tasks — from file processing and repository management to simple applications and experiments.
+*   **Applied Projects and Utilities:** Tools for everyday tasks - from file processing and repository management to simple applications and experiments.
 *   **Distributed Open-Source Libraries:** A set of packages (BSD-3-Clause) covering cryptographic cores, CLI frameworks, repository automation and system infrastructure, published in active package registries and used by developers worldwide.
 
 ---
@@ -55,7 +55,7 @@ I develop novel conceptual models aimed at replacing traditional vulnerabilities
 
 ## Ecosystems & Code Production
 
-I lead the full development cycle — from designing architectural components to implementing ready solutions.
+I lead the full development cycle - from designing architectural components to implementing ready solutions.
 
 **The Architecture of Smart Legion Lab Ecosystems:**
 
@@ -71,9 +71,9 @@ I design and maintain **multi-layer software ecosystems** covering decentralized
     *   *Bots and Automation:* Asynchronous interfaces for notifications and authentication.
 
 **Infrastructure Scale:**
-*   **Project Base** — a broad spectrum of active projects: from research testbeds and production systems to user-facing applications, utilities and automation tools, covering different domains and levels of the stack.
-*   **Library Ecosystem** — a set of distributed packages (BSD-3-Clause) present in international PyPI and Crates registries, with real usage in industrial development and open-source projects.
-*   **Research Footprint** — publications with registered DOIs on Zenodo, in demand in the academic community and referenced in related work.
+*   **Project Base** - a broad spectrum of active projects: from research testbeds and production systems to user-facing applications, utilities and automation tools, covering different domains and levels of the stack.
+*   **Library Ecosystem** - a set of distributed packages (BSD-3-Clause) present in international PyPI and Crates registries, with real usage in industrial development and open-source projects.
+*   **Research Footprint** - publications with registered DOIs on Zenodo, in demand in the academic community and referenced in related work.
 
 ---
 
