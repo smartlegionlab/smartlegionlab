@@ -1,6 +1,6 @@
 # Alexander Suvorov <sup>Sr.</sup>
 
-**Chief Systems Architect & Full-Stack Developer | Computer Science Researcher | Paradigm Creator | Founder Smart Legion Lab**
+**Chief Systems Architect & Full-Stack Developer · Computer Science Researcher · Paradigm Creator · Founder @SmartLegionLab**
 
 🌐 **[smartlegionlab.com](https://smartlegionlab.com)** | **[smartlegionlab.github.io](https://smartlegionlab.github.io)** — official site: research, ecosystems, applications, libraries, projects, articles, team and profiles.
 
